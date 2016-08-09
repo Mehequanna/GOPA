@@ -1,8 +1,11 @@
-.header {
+#header {
   text-align: center;
   background: url('../img/header.png') no-repeat center;
   padding: 150px 0;
   color: white;
+  -webkit-box-shadow: inset -7px -9px 300px 500px rgba(0,0,0,0.24);
+  -moz-box-shadow: inset -7px -9px 300px 500px rgba(0,0,0,0.24);
+  box-shadow: inset -7px -9px 300px 500px rgba(0,0,0,0.24);
 }
 
 h1 {
@@ -11,12 +14,14 @@ h1 {
   padding-bottom: 2.5%;
 }
 
-h2 {
-  font-size: 3rem;
+#subtitle {
+  font-size: 3.5rem;
   margin-top: 1%;
+  font-family: cursive;
 }
 
-h1, h2 {
+h1,
+#subtitle {
   text-shadow: 1px 2px 0px rgba(0, 0, 0, 1);
 }
 
@@ -24,4 +29,38 @@ h1, h2 {
   display: inline-block;
   margin: auto 0;
   width: 65%;
+}
+
+/*Column Design*/
+.col-md-4 {
+  height: 500px;
+  max-width: 350px;
+  float: left;
+  margin: 1%;
+  padding: 5px;
+  -webkit-box-shadow: 7px 7px 20px -2px rgba(0,0,0,0.75);
+  -moz-box-shadow: 7px 7px 20px -2px rgba(0,0,0,0.75);
+  box-shadow: 7px 7px 20px -2px rgba(0,0,0,0.75);
+}
+
+.col-md-4 img {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+  max-height: 60%;
+  padding: 1%;
+}
+
+.col-md-4 a {
+  float: right;
+  font-size: 1.5rem;
+  padding: 2% 4%;
+  margin: 2%;
+}
+
+/*Divider*/
+#divider {
+  display: block;
+  margin: 5px auto;
+  width: 40%;
 }
