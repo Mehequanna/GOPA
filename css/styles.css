@@ -31,10 +31,18 @@ h1,
   width: 65%;
 }
 
+h2 {
+  font-family: serif;
+}
+
+h3 {
+  font-family: cursive;
+}
+
 /*Column Design*/
 .col-md-4 {
   height: 500px;
-  max-width: 350px;
+  width: 350px;
   float: left;
   margin: 1%;
   padding: 5px;
@@ -45,10 +53,13 @@ h1,
 
 .col-md-4 img {
   display: block;
-  margin: 0 auto;
+  margin: 1% auto 2%;
   max-width: 90%;
   max-height: 60%;
-  padding: 1%;
+  /*margin: 1%;*/
+  -webkit-box-shadow: 0px 11px 19px -10px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 11px 19px -10px rgba(0,0,0,0.75);
+  box-shadow: 0px 11px 19px -10px rgba(0,0,0,0.75);
 }
 
 .col-md-4 a {
