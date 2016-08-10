@@ -64,3 +64,14 @@ h1,
   margin: 5px auto;
   width: 40%;
 }
+
+#event {
+  display: none;
+}
+
+#event-photo {
+  max-width: 900px;
+  width: 75%;
+  display: block;
+  margin: 0 auto;
+}
