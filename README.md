@@ -20,7 +20,6 @@ Copyright (c) 2016 Stephen Emery
 
 ##Errors to check
 id divder should be a class?
-Check img alt tags on project pages.
 create footer
 change mural name and add content.
 change mural name in all navbars.
