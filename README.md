@@ -17,3 +17,9 @@ Stephen Emery
 ##License
 This work can be used under the MIT License.
 Copyright (c) 2016 Stephen Emery
+
+##Errors to check
+id divder should be a class?
+create footer
+change mural name and add content.
+change mural name in all navbars.
