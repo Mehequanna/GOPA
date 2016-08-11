@@ -68,6 +68,12 @@ h3 {
   margin: 2%;
 }
 
+/*Donate Button*/
+#donate {
+  font-size: 2rem;
+  color: #1a75ff;
+}
+
 /*Divider*/
 #divider {
   display: block;
