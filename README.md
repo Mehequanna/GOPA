@@ -23,3 +23,4 @@ create footer
 change mural name and add content.
 change mural name in all navbars.
 add thank you page
+change logo on all pages when received
