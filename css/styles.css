@@ -52,7 +52,8 @@ h3 {
   box-shadow: 7px 7px 20px -2px rgba(0,0,0,0.75);
 }
 
-.col-md-4 img {
+.col-md-4 img,
+.body img {
   display: block;
   margin: 1% auto 2%;
   max-width: 90%;
@@ -107,12 +108,11 @@ p {
   font-size: 1.75rem;
 }
 
-.body img {
+/*.body img {
   max-width: 80%;
-}
+}*/
 
-.center,
-.body img {
+.center {
   display: block;
   margin: 0 auto;
 }
