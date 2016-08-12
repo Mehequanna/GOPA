@@ -19,8 +19,9 @@ This work can be used under the MIT License.
 Copyright (c) 2016 Stephen Emery
 
 ##Errors to check
-create footer
-change mural name and add content.
-change mural name in all navbars.
-add thank you page
-change logo on all pages when received
+Create footer
+Change mural name and add content.
+Change mural name in all navbars.
+Add thank you page
+Change logo on all pages when received.
+Use JavaScript to fill in names and logo?
