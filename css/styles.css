@@ -131,6 +131,26 @@ iframe {
 }
 
 /* Media Queries: To fix index.html formating. */
+@media (max-width: 1199px) {
+  #header {
+    padding: 50px 0;
+  }
+}
+
+@media (max-height: 450px) {
+  #header {
+    padding: 40px 0 30px;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  #subtitle {
+    font-size: 2.5rem;
+  }
+}
+
 @media (min-width: 320px) and (max-width: 360px) {
   .col-md-4 {
     width: 300px;
@@ -150,7 +170,7 @@ iframe {
 }
 
 @media (min-width: 991px) and (max-width: 1199px) {
-  .col-md-4:nth-child(1) {
+  .col-md-4:nth-child(odd) {
     margin-left: 10%
   }
 }
