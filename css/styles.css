@@ -1,6 +1,7 @@
 #header {
   text-align: center;
   background: url('../img/header.png') no-repeat center;
+  background-size: cover;
   padding: 150px 0;
   color: white;
   -webkit-box-shadow: inset -7px -9px 300px 500px rgba(0,0,0,0.24);
@@ -120,4 +121,11 @@ iframe {
 
 .committee {
   font-family: serif;
+}
+
+/* Footer Design */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 15px;
 }
