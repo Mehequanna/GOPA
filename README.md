@@ -19,7 +19,7 @@ This work can be used under the MIT License.
 Copyright (c) 2016 Stephen Emery
 
 ##Errors to check
-Create footer
+Create Media Queries
 Change mural name and add content.
 Change mural name in all navbars.
 Add thank you page
