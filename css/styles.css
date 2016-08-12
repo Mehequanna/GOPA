@@ -129,3 +129,28 @@ iframe {
   color: #fff;
   padding: 15px;
 }
+
+/* Media Queries: To fix index.html formating. */
+@media (min-width: 320px) and (max-width: 360px) {
+  .col-md-4 {
+    width: 300px;
+  }
+}
+
+@media (min-width: 410px) and (max-width: 470px) {
+  .col-md-4 {
+    margin-left: 10%
+  }
+}
+
+@media (min-width: 470px) and (max-width: 729px) {
+  .col-md-4 {
+    margin-left: 20%
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1199px) {
+  .col-md-4:nth-child(1) {
+    margin-left: 10%
+  }
+}
