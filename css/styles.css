@@ -1,3 +1,9 @@
+/* Quick Access Event Code */
+/*#event {
+  display: none;
+}*/
+
+/* Main Code */
 #header {
   text-align: center;
   background: url('../img/header.png') no-repeat center;
@@ -82,10 +88,6 @@ h3 {
   display: block;
   margin: 0 auto;
   width: 50%;
-}
-
-#event {
-  display: none;
 }
 
 #event-photo {
