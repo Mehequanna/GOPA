@@ -24,24 +24,9 @@
     padding: 2px 15px;
 }
 
-/*Legacy Header Code Delete after approval*/
-/*h1 {
-  font-size: 4rem;
-  border-bottom: 2px solid white;
-  padding-bottom: 2.5%;
-}*/
-
 h2 {
   font-size: 3.5rem;
   font-family: serif;
-}
-
-
-/*Legacy Header Code Delete after approval*/
-/*#subtitle {
-  font-size: 3.5rem;
-  margin-top: 1%;
-  font-family: cursive;
 }
 
 h1,
@@ -145,28 +130,6 @@ iframe {
 }
 
 /* Media Queries: To fix index.html formating. */
-
-/*Legacy Header Code Delete after approval*/
-/*@media (max-width: 1199px) {
-  #header {
-    padding: 150px 0 150px;
-  }
-}*/
-
-/*@media (max-height: 450px) {
-  #header {
-    padding: 150px;
-  }
-
-  h1 {
-    font-size: 3rem;
-  }
-
-  #subtitle {
-    font-size: 2.5rem;
-  }
-}*/
-
 @media (min-width: 320px) and (max-width: 360px) {
   .col-md-4 {
     width: 300px;
