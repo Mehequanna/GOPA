@@ -130,15 +130,31 @@ iframe {
 }
 
 /* Media Queries: To fix index.html formating. */
-@media (min-width: 320px) and (max-width: 360px) {
+@media (min-width: 320px) and (max-width: 409px) {
   .col-md-4 {
     width: 300px;
+  }
+  .col-md-8 {
+    width: 85%;
+    padding-left: 15%;
+  }
+  #header {
+    background-size: contain;
+    padding: 150px 5px 5px 8px;
   }
 }
 
 @media (min-width: 410px) and (max-width: 470px) {
   .col-md-4 {
-    margin-left: 10%
+    margin-left: 10%;
+  }
+  .col-md-8 {
+    width: 85%;
+    padding-left: 15%;
+  }
+  #header {
+    background-size: contain;
+    padding: 200px 5px 5px 8px;
   }
 }
 
@@ -146,10 +162,17 @@ iframe {
   .col-md-4 {
     margin-left: 20%
   }
+  .col-md-8 {
+    width: 85%;
+    padding-left: 15%;
+  }
 }
 
 @media (min-width: 991px) and (max-width: 1199px) {
   .col-md-4:nth-child(odd) {
     margin-left: 10%
+  }
+  .col-md-8 {
+    width: 85%;
   }
 }
