@@ -174,5 +174,6 @@ iframe {
   }
   .col-md-8 {
     width: 85%;
+    padding-left: 15%;
   }
 }
