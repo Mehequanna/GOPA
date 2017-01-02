@@ -1,8 +1,8 @@
 ## Project Name
 Website for Gresham Outdoor Public Art
 
-## Features
-Expose people to the wonderful art being produced/sponsored by Gresham Outdoor Public Art.
+## Description
+The goal of this site is to expose people to the wonderful art being produced/sponsored by Gresham Outdoor Public Art.
 
 ## Technologies
 BootStrap, HTML, CSS, JavaScript, JQuery
