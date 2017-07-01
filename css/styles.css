@@ -177,3 +177,13 @@ iframe {
     padding-left: 15%;
   }
 }
+
+/* This fixes position on small screens on What's New With GOPA Page*/
+@media (min-width: 320px) and (max-width: 760px) {
+  .body {
+    display: block;
+    margin: 0 auto;
+    width: 85%;
+    margin-bottom: 4%;
+  }
+}
