@@ -25,7 +25,10 @@
   </head>
   <body>
     <!-- Start Navbar -->
-    <?php include('navbar.php') ?>
+    <?php
+      $current = 'home';
+      include('navbar.php');
+    ?>
     <!-- End Navbar -->
 
     <!-- Start Header -->
