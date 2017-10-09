@@ -15,25 +15,25 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li <?php if($current == 'home') {echo 'class="active"';} ?>><a href="index.php">Home</a></li>
-        <li><a href="about.html">About Us</a></li>
-        <li><a href="committee.html">Committee</a></li>
-        <li><a href="contact.html">Contact Us</a></li>
+        <li <?php if($current == 'about') {echo 'class="active"';} ?>><a href="about.php">About Us</a></li>
+        <li <?php if($current == 'committee') {echo 'class="active"';} ?>><a href="committee.php">Committee</a></li>
+        <li <?php if($current == 'contact') {echo 'class="active"';} ?>><a href="contact.php">Contact Us</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li <?php if($current == 'nadakanaturepark') {echo 'class="active"';} ?>><a href="nadakanaturepark.php">Nadaka Nature Park</a></li>
-            <li><a href="driscoll.html">Driscoll</a></li>
-            <li><a href="mural.html">Main Street Mural</a></li>
-            <li><a href="bikerack.html">Vintage Style Bike Rack</a></li>
-            <li><a href="crash.html">Crash</a></li>
-            <li><a href="familyties.html">Family Ties</a></li>
+            <li <?php if($current == 'driscoll') {echo 'class="active"';} ?>><a href="driscoll.php">Driscoll</a></li>
+            <li <?php if($current == 'mural') {echo 'class="active"';} ?>><a href="mural.php">Main Street Mural</a></li>
+            <li <?php if($current == 'bikerack') {echo 'class="active"';} ?>><a href="bikerack.php">Vintage Style Bike Rack</a></li>
+            <li <?php if($current == 'crash') {echo 'class="active"';} ?>><a href="crash.php">Crash</a></li>
+            <li <?php if($current == 'familyties') {echo 'class="active"';} ?>><a href="familyties.php">Family Ties</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="whatsnewwithgopa.html">What's new with GOPA?</a></li>
+            <li <?php if($current == 'whatsnew') {echo 'class="active"';} ?>><a href="whatsnewwithgopa.php">What's new with GOPA?</a></li>
           </ul>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="donate.html" id="donate">Donate!</a></li>
+        <li <?php if($current == 'donate') {echo 'class="active"';} ?>><a href="donate.php" id="donate">Donate!</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
