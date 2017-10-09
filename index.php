@@ -27,7 +27,7 @@
     <!-- Start Navbar -->
     <?php
       $current = 'home';
-      include('navbar.php');
+      include 'navbar.php';
     ?>
     <!-- End Navbar -->
 

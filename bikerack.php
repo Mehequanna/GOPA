@@ -27,7 +27,7 @@
     <!-- Start Navbar -->
     <?php
       $current = 'bikerack';
-      include('navbar.php');
+      include 'navbar.php';
     ?>
     <!-- End Navbar -->
 

@@ -27,7 +27,7 @@
     <!-- Start Navbar -->
     <?php
       $current = 'nadakanaturepark';
-      include('navbar.php');
+      include 'navbar.php';
     ?>
     <!-- End Navbar -->
 
@@ -95,7 +95,7 @@
     <!-- End Body -->
 
     <!-- Footer -->
-    <?php include('footer.php') ?>
+    <?php include 'footer.php'; ?>
     <!-- End Footer -->
   </body>
 </html>

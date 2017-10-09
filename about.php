@@ -27,7 +27,7 @@
     <!-- Start Navbar -->
     <?php
       $current = 'about';
-      include('navbar.php');
+      include 'navbar.php';
     ?>
     <!-- End Navbar -->
 
