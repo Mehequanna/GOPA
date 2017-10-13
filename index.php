@@ -37,7 +37,7 @@
           <br>
           <br>
           <br>
-          <a href="whatsnewwithgopa.html" class="btn btn-primary">Read More</a>
+          <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/nadaka/nadakapark.jpg" alt="Nadaka Nature Park Postcard" />
@@ -45,14 +45,14 @@
           <h3>Slider the Otter &amp;
           <br>Seeker the Raven
           </h3>
-          <a href="nadakanaturepark.html" class="btn btn-primary">Read More</a>
+          <a href="nadakanaturepark.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/driscoll.jpg" alt="Driscoll in Downtown Gresham" />
           <h2>Driscoll</h2>
           <h3>by Heather Soderberg</h3>
           <br>
-          <a href="driscoll.html" class="btn btn-primary">Read More</a>
+          <a href="driscoll.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/mural.jpg" alt="Photo of Mural on Main Street" />
@@ -62,7 +62,7 @@
           <br>
           <br>
           <br>
-          <a href="mural.html" class="btn btn-primary">Read More</a>
+          <a href="mural.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/bikerack.jpg" alt="Bike Rack in Downtown Gresham" />
@@ -70,7 +70,7 @@
           <h3>by Tim Foertsch</h3>
           <br>
           <br>
-          <a href="bikerack.html" class="btn btn-primary">Read More</a>
+          <a href="bikerack.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/crash.jpg" alt="Crash Statue in Downtown Gresham" />
@@ -80,7 +80,7 @@
           <br>
           <br>
           <br>
-          <a href="crash.html" class="btn btn-primary">Read More</a>
+          <a href="crash.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/familyties.jpg" alt="Family Ties in Downtown Gresham" />
@@ -91,7 +91,7 @@
           <br>
           <br>
           <br>
-          <a href="familyties.html" class="btn btn-primary">Read More</a>
+          <a href="familyties.php" class="btn btn-primary">Read More</a>
         </div>
       </div><!-- row div close -->
     </div><!-- container div close -->

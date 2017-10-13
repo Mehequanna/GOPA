@@ -136,6 +136,11 @@ iframe {
   padding: 15px;
 }
 
+.linkedinlink,
+.linkedinlink:hover {
+  color: #fff;
+}
+
 /* Media Queries: To fix index.html formating. */
 @media (min-width: 320px) and (max-width: 409px) {
   .col-md-4 {
