@@ -8,7 +8,7 @@ The goal of this site is to expose people to the wonderful art being produced/sp
 BootStrap, HTML, CSS, JavaScript, JQuery
 
 ## Usage
-To view the site, you can go to http://greshamoutdoorpublicart.com/.
+To view the site, you can go to [http://greshamoutdoorpublicart.com/](http://greshamoutdoorpublicart.com/).
 
 To use the code, you can clone the repository at [https://github.com/Mehequanna/gopa](https://github.com/Mehequanna/gopa).
 
