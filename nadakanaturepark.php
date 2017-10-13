@@ -54,21 +54,21 @@
           <p>Joan is quoted as saying in an article by Christopher Keizur, "This whole project could not have happened without everyone coming together."</p>
           <p>
             Read more of the original article at: <br>
-            <a href="http://portlandtribune.com/go/42-news/369214-251813-nadaka-unveils-nature-statues">http://portlandtribune.com/go/42-news/369214-251813-nadaka-unveils-nature-statues</a>
+            <a href="http://portlandtribune.com/go/42-news/369214-251813-nadaka-unveils-nature-statues" target="_blank">http://portlandtribune.com/go/42-news/369214-251813-nadaka-unveils-nature-statues</a>
           </p>
           <p>
-            Learn more about Nadaka Nature Park at: <a href="http://friendsofnadaka.org/">http://friendsofnadaka.org/</a><br>
-            Location: <a href="https://www.google.com/maps/place/Nadaka+Nature+Park/@45.5273036,-122.4842332,17z/data=!3m1!4b1!4m5!3m4!1s0x5495a242fc2b0739:0x52779ce5a5e064d2!8m2!3d45.5272999!4d-122.4820446">17615 N.E. Glisan Street, Portland, Oregon  97230</a>
+            Learn more about Nadaka Nature Park at: <a href="http://friendsofnadaka.org/" target="_blank">http://friendsofnadaka.org/</a><br>
+            Location: <a href="https://www.google.com/maps/place/Nadaka+Nature+Park/@45.5273036,-122.4842332,17z/data=!3m1!4b1!4m5!3m4!1s0x5495a242fc2b0739:0x52779ce5a5e064d2!8m2!3d45.5272999!4d-122.4820446" target="_blank">17615 N.E. Glisan Street, Portland, Oregon  97230</a>
           </p>
           <br>
           <h2>Artist: Rip and Chad Caswell</h2>
-          <a href="http://www.pamplinmedia.com/go/42-news/370222-253164-family-sculpting"><img src="img/nadaka/ripandchad.jpg" alt="Photo of Rip and Chad Caswell" class="center"/></a>
+          <a href="http://www.pamplinmedia.com/go/42-news/370222-253164-family-sculpting" target="_blank"><img src="img/nadaka/ripandchad.jpg" alt="Photo of Rip and Chad Caswell" class="center"/></a>
           <p>Rip gave a great quote in the above mentioned article, "It's an honor to have our art placed in a nature park... I think it's wonderful to bring more art into Gresham."</p>
           <p>Rip and Chad worked together to bring these statues to Nadaka Nature Park. In another article by Keizur, Judy Han had this to say, "It is wonderful having artists like Rip here in the area... The sculptures he and his sons make are beautiful, and our community deserves these nice things."</p>
           <p>Rip enjoys working with his sons and watching them progress. He is proud of every piece they make. "What draws people to the family's work is the emotion they impart onto their subjects. Every piece has a dynamism beneath the surface, looking as if the moments are in action. The trick, according to the artists, is having that same emotion while sculpting. 'If you feel the emotion yourself it will translate through you work,' Chad said."</p>
           <p>
             Read more about Chad and Rip at: <br>
-            <a href="http://www.pamplinmedia.com/go/42-news/370222-253164-family-sculpting">http://www.pamplinmedia.com/go/42-news/370222-253164-family-sculpting</a>
+            <a href="http://www.pamplinmedia.com/go/42-news/370222-253164-family-sculpting" target="_blank">http://www.pamplinmedia.com/go/42-news/370222-253164-family-sculpting</a>
           </p>
         </div>
       </div><!-- row div close -->
