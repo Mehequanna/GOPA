@@ -46,6 +46,9 @@
           <img src="img/nadaka/chambersfamily.jpg" alt="Vanessa Chambers and her grandchildren with Slider." class="center"/>
           <p>Vanessa Chambers and her grandchildren with Slider.</p>
           <br>
+          <img src="img/nadaka/readingslider.jpg" alt="Molly Morriss from New Zealand reading to Slider." class="center"/>
+          <p>Molly Morriss from New Zealand reading to Slider.</p>
+          <br>
           <img src="img/nadaka/thecrew.jpg" alt="The group that brought all this together." class="center"/>
           <p>This is the great group of people who brought these two statues to Nadaka Nature Park!</p>
           <p>Joan is quoted as saying in an article by Christopher Keizur, "This whole project could not have happened without everyone coming together."</p>
