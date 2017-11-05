@@ -40,6 +40,17 @@
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
+          <img src="img/harvestmural/berryharvestmural.jpg" alt="Finished Berry Harvest Mural" />
+          <h2>Berry Harvest Mural</h2>
+          <h3>by Don Gray</h3>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <a href="berryharvest.php" class="btn btn-primary">Read More</a>
+        </div>
+        <div class="col-md-4 text-center">
           <img src="img/nadaka/nadakapark.jpg" alt="Nadaka Nature Park Postcard" />
           <h2>Nadaka Nature Park</h2>
           <h3>Slider the Otter &amp;

@@ -66,12 +66,12 @@
           </p>
           <p>
             Read the original article at: <br>
-            <a href="http://www.pamplinmedia.com/go/42-news/318940-198043-new-downtown-mural-invites-greshamites-to-share-stories">http://www.pamplinmedia.com/go/42-news/318940-198043-new-downtown-mural-invites-greshamites-to-share-stories</a>
+            <a href="http://www.pamplinmedia.com/go/42-news/318940-198043-new-downtown-mural-invites-greshamites-to-share-stories" target="_blank">http://www.pamplinmedia.com/go/42-news/318940-198043-new-downtown-mural-invites-greshamites-to-share-stories</a>
           </p>
           <br>
           <h2>Artist: Don Gray</h2>
           <img src="img/dongray.jpg" alt="Don Gray Photo" class="center"/>
-          <p>Here is a picture of Don working on the nearly finished project! Learn more about Don Gray at: <a href="http://Dongraystudio.com/">DonGrayStudio.com</a></p>
+          <p>Here is a picture of Don working on the nearly finished project! Learn more about Don Gray at: <a href="http://Dongraystudio.com/" target="_blank">DonGrayStudio.com</a></p>
         </div>
       </div><!-- row div close -->
     </div><!-- container div close -->
