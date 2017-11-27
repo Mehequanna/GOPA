@@ -40,6 +40,17 @@
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
+          <img src="img/blue/bluehead.jpg" alt="Blue Heron Sculpture" />
+          <h2>Blue</h2>
+          <h3>by Heather Soderberg</h3>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <a href="blue.php" class="btn btn-primary">Read More</a>
+        </div>
+        <div class="col-md-4 text-center">
           <img src="img/harvestmural/berryharvestmural.jpg" alt="Finished Berry Harvest Mural" />
           <h2>Berry Harvest Mural</h2>
           <h3>by Don Gray</h3>
