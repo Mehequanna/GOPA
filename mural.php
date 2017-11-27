@@ -69,6 +69,10 @@
             <a href="http://www.pamplinmedia.com/go/42-news/318940-198043-new-downtown-mural-invites-greshamites-to-share-stories" target="_blank">http://www.pamplinmedia.com/go/42-news/318940-198043-new-downtown-mural-invites-greshamites-to-share-stories</a>
           </p>
           <br>
+          <img src="img/icecreamsocial.jpg" alt="People Serving ice cream at the social." class="center"/>
+          <p>
+            Nikolas Gelman, a Sunny Hans employee, serves ice cream with his brother and sister-in-law at the Ice Cream Social on August 21, 2016. The ice cream was graciously donated by Umpqua Dairy.
+          </p>
           <h2>Artist: Don Gray</h2>
           <img src="img/dongray.jpg" alt="Don Gray Photo" class="center"/>
           <p>Here is a picture of Don working on the nearly finished project! Learn more about Don Gray at: <a href="http://Dongraystudio.com/" target="_blank">DonGrayStudio.com</a></p>
