@@ -71,7 +71,7 @@
           <br>
           <img src="img/icecreamsocial.jpg" alt="People Serving ice cream at the social." class="center"/>
           <p>
-            Nikolas Gelman, a Sunny Hans employee, serves ice cream with his brother and sister-in-law at the Ice Cream Social on August 21, 2016. The ice cream was graciously donated by Umpqua Dairy.
+            Nikolas Gelman, a Sunny Hans employee, serves ice cream with his brother and sister-in-law at the Ice Cream Social on August 21, 2016. The ice cream was graciously donated by Umpqua Dairy. It was a very fun and successful event!
           </p>
           <h2>Artist: Don Gray</h2>
           <img src="img/dongray.jpg" alt="Don Gray Photo" class="center"/>
