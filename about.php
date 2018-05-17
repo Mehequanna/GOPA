@@ -19,19 +19,18 @@
       <img src="img/divider.png" alt="Page Divider" id="divider"/>
       <div class="row">
         <div class="col-lg-1"></div>
-        <div class="col-lg-10 body">
-          <h2 class="text-center">About Us</h2>
+        <div class="col-lg-10 body text-center">
+          <h2>About Us</h2>
           <br>
-          <h4 class="text-center">Our Beginning:</h4>
-          <p class="text-center">The Art Walk Etc. organization is a group of individuals and supporters that partner together to build community using art as the vehicle. The Gresham Art Walk was created in 2002 by a small group of volunteers who loved art-all kinds of art! The 3rd Saturday in July brought 10,000 attendees of all ages and walks of life to this free, one-day event. Our legacy as an organization is the creation and success, for twelve years, of the Gresham Art Walk.</p>
-          <p class="text-center">In 2013 after a year of mentoring The Gresham Art Walk was gifted to the City of Gresham and the community. The event continues today as the Gresham Arts Festival.</p>
-          <p class="text-center">With a desire to branch out and do more art projects in the community, Art Walk Etc. a 501c3 formed the Gresham Outdoor Public Art (GOPA). Our Federal Tax ID is 59-3781305</p>
+          <h4>Our Purpose:</h4>
+          <p>To obtain and place durable, free standing art sculptures crafted by local artists to provide ongoing educational and cultural experiences and also to cultivate appreciation of what visual, touchable outdoor art can do to enrich our community.</p>
           <br>
-          <h4 class="text-center">Our Mission:</h4>
-          <p class="text-center">To obtain and place durable, art sculptures produced by NW artists to provide ongoing educational and cultural experiences and to cultivate appreciation of what visual, approachable outdoor art can do to enrich our community.</p>
+          <h4>Our Beginning:</h4>
+          <p>The Art Walk Etc. organization is a group of individuals and supporters that partner together to build community using art as the vehicle. Art Walk Etc. created the Gresham Outdoor Public Art (GOPA) Project to exhibit art in permanent places – outside - so it lives and is a part of the community. Our legacy as an organization is the creation and success, for twelve years, of the Gresham Art Walk. Gresham Art Walk was created in 2002 by a small group of volunteers who loved art – all kinds of art! The 3rd Saturday in July brought 10,000+ attendees of all ages and walks of life to this free, one-day event. A desire to branch out and do more art projects in the community on a smaller scale, the Gresham Art Walk, after a year of mentoring, was gifted to the City of Gresham and Gresham Outdoor Public Art (GOPA) was born.</p>
+          <p>Art Walk Etc. is a 501c3 and formed the Gresham Outdoor Public Art (GOPA). Our Federal Tax ID is 59-3781305</p>
           <br>
-          <h4 class="text-center">Our Goals:</h4>
-          <p class="text-center">Our program goals for Gresham Outdoor Public Art (GOPA) are: to acquire durable, art sculptures or works produced by NW artists both established, and emerging new artists, and to provide an economic benefit and ongoing educational and cultural experience for Gresham and the surrounding communities, to cultivate the appreciation of what visual outdoor art can do to enhance the livability of Gresham.</p>
+          <h4>Our Goals:</h4>
+          <p>Our program goals for Gresham Outdoor Public Art (GOPA) are: to acquire durable, free standing art sculptures or works crafted locally by established and student artists, and to provide an economic benefit and ongoing educational and cultural experience for Gresham and the surrounding communities, and to cultivate the appreciation of what visual outdoor art can do to enhance the livability of Gresham.</p>
         </div>
       </div><!-- row div close -->
     </div><!-- container div close -->
