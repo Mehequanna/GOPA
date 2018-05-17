@@ -32,6 +32,11 @@
           <h4 class="text-center">Rose Marie Noojin, Secretary</h4>
           <p class="text-center">Currently employed as the Manager of Sunny Han’s Wok and Grill in Historic Downtown Gresham: Secretary for the Gresham Historical Society, Secretary for Art Walk Etc. and the Gresham Outdoor Public Art (GOPA) project. Some of her past positions in the Gresham community:  Secretary for the Downtown Gresham Boosters and the Mt. Hood Jazz Festival.</p>
           <br>
+        </div> <!-- end of body -->
+      </div><!-- row div close -->
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <h3 class="committee text-center">Committee Members</h3>
           <br>
           <h4 class="text-center">Rip Caswell</h4>
@@ -60,7 +65,7 @@
           <br>
           <h4 class="text-center">Charlotte Becker</h4>
           <p class="text-center">Charlotte was a member of the Gresham Art Walk committee for 11 years, implementing and overseeing recycling and waste management for the event. Until retiring at the end of December 2015, she served veterans and their families for 8 years as a licensed clinical social worker in Vancouver and East Multnomah County. Prior to the VA, Charlotte and her partner managed the Association of Oregon Recyclers and contracted with government agencies for public outreach materials. She was the “Voice of OPB TV” for 25 years and is currently the voice of government interactive voice response systems in many US cities.</p>
-        </div>
+        </div><!-- body div close -->
       </div><!-- row div close -->
     </div><!-- container div close -->
     <!-- End Body -->
