@@ -40,6 +40,14 @@
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
+          <img src="img/bikeracks/bikerack.jpg" alt="Bike Racks in Downtown Gresham" />
+          <h2>Vintage Style<br>Bike Racks</h2>
+          <h3>by Tim Foertsch</h3>
+          <br>
+          <br>
+          <a href="bikerack.php" class="btn btn-primary">Read More</a>
+        </div>
+        <div class="col-md-4 text-center">
           <img src="img/blue/bluehead.jpg" alt="Blue Heron Sculpture" />
           <h2>Blue</h2>
           <h3>by Heather Soderberg</h3>
@@ -85,14 +93,6 @@
           <br>
           <br>
           <a href="mural.php" class="btn btn-primary">Read More</a>
-        </div>
-        <div class="col-md-4 text-center">
-          <img src="img/bikerack.jpg" alt="Bike Rack in Downtown Gresham" />
-          <h2>Vintage Style<br>Bike Rack</h2>
-          <h3>by Tim Foertsch</h3>
-          <br>
-          <br>
-          <a href="bikerack.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
           <img src="img/crash.jpg" alt="Crash Statue in Downtown Gresham" />
