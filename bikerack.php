@@ -33,7 +33,7 @@
           <p>This bike was sponsored by Bonnie Jepsen to honor her grandchildren and was placed near the south side of the Gresham History Museum.</p>
           <br>
           <img src="img/bikeracks/frenzibikerack.jpg" alt="Green salmon bike rack in front of Frenzi." class="center"/>
-          <p>The salmon bike rack was supported by Frenzi's owners Kerri Ellis & Theresa Fery and was placed in front of Frenzi Frozen Yogurt. Tim Foertsch poses with his creation.</p>
+          <p>The salmon bike rack was supported by Frenzi's owners Kerri Ellis and Theresa Fery and was placed in front of Frenzi Frozen Yogurt. Tim Foertsch poses with his creation.</p>
           <br>
           <img src="img/bikeracks/icandybikerack.jpg" alt="Red bike rack wagon next to iCandy." class="center"/>
           <p>This cute red bike rack wagon sits on the north side of iCandy.</p>
