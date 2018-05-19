@@ -26,6 +26,25 @@
           <img src="img/bikeracks/carlabikerack.png" alt="Photo of Carla Piluso with the Bike Rack" class="center"/>
           <p>Carla Piluso is the sponsor of the first artistic bike rack. This bike rack has been placed near Jazzy bagel on the corner of Main Ave and E Powell Blvd.</p>
           <br>
+          <img src="img/bikeracks/cafedbikerack.jpg" alt="Red bike rack in front of Cafe D." class="center"/>
+          <p>This bike rack was sponsored by Amelia Salvador and was placed on the corner of 3rd and Main by Cafe Delirium.</p>
+          <br>
+          <img src="img/bikeracks/museumbikerack.jpg" alt="Black bike rack near side of Gresham History Museum." class="center"/>
+          <p>This bike was sponsored by Bonnie Jepsen to honor her grandchildren and was placed near the south side of the Gresham History Museum.</p>
+          <br>
+          <img src="img/bikeracks/frenzibikerack.jpg" alt="Green salmon bike rack in front of Frenzi." class="center"/>
+          <p>The salmon bike rack was supported by Frenzi's owners Kerri Ellis & Theresa Fery and was placed in front of Frenzi Frozen Yogurt. Tim Foertsch poses with his creation.</p>
+          <br>
+          <img src="img/bikeracks/icandybikerack.jpg" alt="Red bike rack wagon next to iCandy." class="center"/>
+          <p>This cute red bike rack wagon sits on the north side of iCandy.</p>
+          <br>
+          <img src="img/bikeracks/sugarcubedbikerack.jpg" alt="Kayla, owner of Sugar Cubed, poses with the new green bike rack on 1st and Main Ave." class="center"/>
+          <p>Kayla, owner of Sugar Cubed, poses with the new green bike rack on 1st and Main Ave.</p>
+          <br>
+          <p>The next three photos are of the bike farm in front of the farm mural and Jazzy Bagel.</p>
+          <img src="img/bikeracks/jazzyfarmbikerack.jpg" alt="Bike farm racks in front of farm mural." class="center"/>
+          <img src="img/bikeracks/jazzylongbikerack.jpg" alt="Long bike rack in front of Jazzy Bagel." class="center"/>
+          <img src="img/bikeracks/jazzywheelbikerack.jpg" alt="Two bike racks in front of Jazzy Bagel." class="center"/>
         </div>
       </div>
 
