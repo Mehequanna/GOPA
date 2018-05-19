@@ -17,14 +17,42 @@
     <!-- Start Body -->
     <div class="container text-center">
       <img src="img/divider.png" alt="Page Divider" id="divider"/>
+      <!-- Art Row -->
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-          <h2>Vintage Style Bike Rack</h2>
+          <h2>Vintage Style Bike Racks</h2>
           <br>
           <img src="img/bikeracks/carlabikerack.png" alt="Photo of Carla Piluso with the Bike Rack" class="center"/>
-          <p>Carla Piluso is the sponsor of the first artistic bike rack. The bike rack has been placed near Jazzy bagel on the corner of Main Ave and E Powell Blvd.</p>
+          <p>Carla Piluso is the sponsor of the first artistic bike rack. This bike rack has been placed near Jazzy bagel on the corner of Main Ave and E Powell Blvd.</p>
           <br>
+        </div>
+      </div>
+
+      <!-- Event Row -->
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
+          <h2>Bike Farm Christening Event</h2>
+          <h4>May 8th, 2018</h4>
+          <br>
+          <p>On May 8th, we celebrated the christening of the new bike farm made possible by a grant from Bicycle Tourism with support from the Gresham Chamber of Commerce, Gresham Outdoor Public Art, and the City of Gresham. Here are some excerpts and pictures from that day!</p>
+          <br>
+          <p>Gresham residents and visitors have a new way to connect up....their bikes. Made from re-used metals, these unique bike racks look like the antiques they once were.</p>
+          <img src="img/bikeracks/pdxwheelers.jpg" alt="PDX Wheelers Bike Group" class="center"/>
+          <p>The PDX Wheelers bike club joined us that day!</p>
+          <img src="img/bikeracks/timandfamily.jpg" alt="Tim Foertsch and family" class="center"/>
+          <p>Tim Foertsch and family!</p>
+          <p>Tim Foertsch, who lives in Corbett with his wife and daughters, combed scrap piles, farmer’s fields, and estate sales to find the parts to build his creations. Tim’s idea from the start was to use every piece for something completely different and unique.</p>
+          <img src="img/bikeracks/chachabikefarm.jpg" alt="Cha Cha the clown and child on new bike rack." class="center"/>
+          <p>Cha Cha the clown and kid playing on the new bike racks!</p>
+        </div>
+      </div>
+
+      <!-- Artist Row -->
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <h2>Artist: Tim Foertsch</h2>
           <img src="img/bikeracks/bikerack.jpg" alt="Tim Foertsch Photo" class="center"/>
           <p>Tim Foertsch with his first bike rack creation.</p>
