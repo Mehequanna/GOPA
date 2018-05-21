@@ -24,7 +24,7 @@
           <h2>Vintage Style Bike Racks</h2>
           <br>
           <img src="img/bikeracks/carlabikerack.png" alt="Photo of Carla Piluso with the Bike Rack" class="center"/>
-          <p>Carla Piluso is the sponsor of the first artistic bike rack. This bike rack has been placed near Jazzy bagel on the corner of Main Ave and E Powell Blvd.</p>
+          <p>Carla Piluso is the sponsor of the first artistic bike rack. This bike rack has been placed near Jazzy Bagels on the corner of Main Ave and E Powell Blvd.</p>
           <br>
           <img src="img/bikeracks/cafedbikerack.jpg" alt="Red bike rack in front of Cafe D." class="center"/>
           <p>This bike rack was sponsored by Amelia Salvador and was placed on the corner of 3rd and Main by Cafe Delirium.</p>
@@ -33,15 +33,15 @@
           <p>This bike was sponsored by Bonnie Jepsen to honor her grandchildren and was placed near the south side of the Gresham History Museum.</p>
           <br>
           <img src="img/bikeracks/frenzibikerack.jpg" alt="Green salmon bike rack in front of Frenzi." class="center"/>
-          <p>The salmon bike rack was supported by Frenzi's owners Kerri Ellis and Theresa Fery and was placed in front of Frenzi Frozen Yogurt. Tim Foertsch poses with his creation.</p>
+          <p>The salmon bike rack was supported by Frenzi's owners Kerri Ellis and Theresa Fery and was placed in front of Frenzi Frozen Yogurt on Main Avenue. Tim Foertsch poses with his creation.</p>
           <br>
           <img src="img/bikeracks/icandybikerack.jpg" alt="Red bike rack wagon next to iCandy." class="center"/>
-          <p>This cute red bike rack wagon sits on the north side of iCandy.</p>
+          <p>This cute red bike rack wagon sits on the north side of iCandy on 4th street.</p>
           <br>
           <img src="img/bikeracks/sugarcubedbikerack.jpg" alt="Kayla, owner of Sugar Cubed, poses with the new green bike rack on 1st and Main Ave." class="center"/>
           <p>Kayla, owner of Sugar Cubed, poses with the new green bike rack on 1st and Main Ave.</p>
           <br>
-          <p>The next three photos are of the bike farm in front of the farm mural and Jazzy Bagel.</p>
+          <p>Bike Farm on Powell in front of the farm murals and Jazzy Bagels.</p>
           <img src="img/bikeracks/jazzyfarmbikerack.jpg" alt="Bike farm racks in front of farm mural." class="center"/>
           <img src="img/bikeracks/jazzylongbikerack.jpg" alt="Long bike rack in front of Jazzy Bagel." class="center"/>
           <img src="img/bikeracks/jazzywheelbikerack.jpg" alt="Two bike racks in front of Jazzy Bagel." class="center"/>
@@ -81,7 +81,7 @@
 
           <p>Tim Foertsch has been designing and crafting whimsical bike racks for Gresham Outdoor Public Art since 2017, after GOPA Chair, Judy Han, approached him with the idea. Each rack is made from scrap metal, and metal parts from machines and farm implements, then painted and powder coated for durability. Tim says, “I have enjoyed meeting many of the great Gresham champions and the opportunity share my work.”</p>
 
-          <p>His raw material is typically found rusting in junk piles or fields near Tim’s home in Corbett. He and his wife moved to Corbett about 15 years ago to be near family and raise their two daughters. His day job is Telecommunications Engineer. Turning scrap metal into art, as more than a hobby, came after he visited a recycled art show. It was a “light bulb moment, as I realized I could make a little extra money doing what I enjoyed.” He introduced his work to the general public at Cracked Pots Recycled Art show at McMenamins Edgefield, Troutdale, in 2009. His first gallery show was in 2012.</p>
+          <p>His raw material is typically found rusting in junk piles or fields near Tim’s home in Corbett. He and his wife moved to Corbett about 15 years ago to be near family and raise their two daughters. His day job is Telecommunications Engineer. Turning scrap metal into art, as more than a hobby, came after he visited a recycled art show. "It was a 'light bulb moment' as I realized I could make a little extra money doing what I enjoyed.” He introduced his work to the general public at Cracked Pots Recycled Art show at McMenamins Edgefield, Troutdale, in 2009. His first gallery show was in 2012.</p>
 
           <p>Bike racks are just a small slice of what Tim creates from the stuff many see as junk. Currently his art is available at Grizzly Ridge Upcycle, Sisters, OR; Off The Walls Gallery, Shelton, WA; and more.</p>
 
