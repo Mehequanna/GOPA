@@ -81,6 +81,16 @@ h3 {
   margin: 2%;
 }
 
+#donate-todd {
+  max-width: 100%;
+  width: 80%
+}
+
+#donate-normal {
+  max-width: 100%;
+  width: 40%
+}
+
 /*Donate Button*/
 #donate {
   font-size: 2rem;
