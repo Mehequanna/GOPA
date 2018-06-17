@@ -27,8 +27,8 @@
           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="KRVHNN6LSGA7L">
-            <input type="image" src="img/todd_donate.png" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" class="center" id="donate-todd">
-            <img alt="Todd's Donation Button" border="0" src="img/todd_donate.png" width="1" height="1">
+            <input type="image" src="img/todd_donate.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" class="center" id="donate-todd">
+            <img alt="Todd's Donation Button" border="0" src="img/todd_donate.jpg" width="1" height="1">
           </form>
           <br>
           <p>If you would like to make a check out instead, please use the address below and write, "For Todd's statue" in the note section.</p>
