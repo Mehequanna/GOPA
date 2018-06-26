@@ -20,7 +20,7 @@
         <div class="col-md-2"></div>
         <div class="col-md-8" id="event">
           <h2 class="text-center">Upcoming Event!</h2>
-          <img src="img/artsfestivalsmall.png" alt="Event Photo" id="event-photo" />
+          <img src="img/artunderthestars.jpg" alt="July 20th Art Under the Stars!" id="event-photo" />
           <br>
         </div>
         <div class="col-md-2"></div>
