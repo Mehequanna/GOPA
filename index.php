@@ -29,9 +29,9 @@
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
-          <img src="img/communityhotlinejune28th2017.png" alt="Photo of Judy on Community Hotline" />
+          <img src="img/judycommunityhotlinejuly.jpg" alt="Photo of Judy on Community Hotline" />
           <h2>What's new <br>with GOPA?</h2>
-          <h3>Updated: 7/1/2017</h3>
+          <h3>Updated: 7/3/2018</h3>
           <br>
           <br>
           <br>
