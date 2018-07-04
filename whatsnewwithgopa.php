@@ -22,7 +22,7 @@
         <div class="col-lg-10 body">
           <h2>Judy on Community Hotline! July 4th, 2018</h2>
           <br>
-          <img src="img/communityhotlinejune28th2017.png" alt="Judy with Carla and Monica on Community Hotline" class="center"/>
+          <img src="img/judycommunityhotlinejuly.jpg" alt="Judy with Carla and Monica on Community Hotline" class="center"/>
           <p>Judy Han and Carla Piluso join Monica Weitzel on Community Hotline. They talk about the Gresham Arts Festival happening on July 20th and 21st, 2018!</p>
           <br>
           <iframe src="https://player.vimeo.com/video/277660868" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
