@@ -20,6 +20,16 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
+          <h2>Interview with Todd Kirnan!</h2>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Dtvc1mRytSw" frameborder="0" allowfullscreen class="center"></iframe>
+          <br>
+          <p>KXL interviews Todd Kirnan about his upcoming event and statue unveiling.</p>
+        </div>
+      </div><!-- row div close -->
+
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <h2>Todd Kirnan's Statue Fundraiser</h2>
           <p>We are currently holding a fundraiser to commission a statue of our friend Todd. To learn more about his story, see this article from the Gresham Outlook!</p>
           <h4><a href="https://pamplinmedia.com/go/44-features/393479-286300-mr-gresham-todd-kirnan-is-one-of-regions-extraordinary-citizens" target="blank">Click here to read Gresham Outlook's article about Todd Kirnan.</a></h4>
