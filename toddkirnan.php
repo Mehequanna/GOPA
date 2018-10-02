@@ -20,10 +20,20 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-          <h2>Interview with Todd Kirnan!</h2>
+          <h2>KXL Interviews Todd Kirnan!</h2>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/Dtvc1mRytSw" frameborder="0" allowfullscreen class="center"></iframe>
           <br>
           <p>KXL interviews Todd Kirnan about his upcoming event and statue unveiling.</p>
+        </div>
+      </div><!-- row div close -->
+
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
+          <h2>CBS Interviews Todd Kirnan!</h2>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/bX2uSihLrAo" frameborder="0" allowfullscreen class="center"></iframe>
+          <br>
+          <p>Todd Kirnan on CBS Evening News!</p>
         </div>
       </div><!-- row div close -->
 
