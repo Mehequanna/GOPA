@@ -20,6 +20,16 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
+          <h2>Mr. Gresham, The King of Gresham</h2>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/hcBaS1r8h0k" frameborder="0" allowfullscreen class="center"></iframe>
+          <br>
+          <p>Here is the video by the City of Gresham entitled, Mr. Gresham, The King of Gresham. It is a great reminder of such a fun day and great person, Todd Kirnan!</p>
+        </div>
+      </div><!-- row div close -->
+
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <h2>KXL Interviews Todd Kirnan!</h2>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/Dtvc1mRytSw" frameborder="0" allowfullscreen class="center"></iframe>
           <br>
