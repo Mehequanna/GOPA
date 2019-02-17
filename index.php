@@ -53,6 +53,15 @@
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
+          <img src="img/teddybear/everyone.jpg" alt="Everyone surrounding the Teddy Bear" />
+          <h2>Teddy Bear</h2>
+          <h3>by Heather Soderberg</h3>
+          <br>
+          <br>
+          <br>
+          <a href="teddybear.php" class="btn btn-primary">Read More</a>
+        </div>
+        <div class="col-md-4 text-center">
           <img src="img/todd_alone.jpg" alt="Photo of Todd Kirnan posing." />
           <h2>Todd Kirnan's Statue</h2>
           <h3>by Heather Soderberg</h3>
