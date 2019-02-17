@@ -59,6 +59,8 @@
           <br>
           <br>
           <br>
+          <br>
+          <br>
           <a href="teddybear.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
