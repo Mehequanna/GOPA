@@ -26,22 +26,27 @@
           <p>Every year, the Soroptomist International of Gresham put on a Teddy Bear Parade. In 2017, the Soroptomist International of Gresham and the Bemis family paid for this bronze to celebrate 35 years of the Soroptomist Teddy Bear Parade in Gresham. Here are some photos of the really fun unveilling!</p>
           <br>
           <img src="img/teddybear/teddy unveiled.jpg" alt="The Teddy Bear unveiled!" class="center"/>
-          <p>The teddy bear is unveiled!</p>
+          <p>Mayor Bemis and Gresham Soroptomist</p>
           <br>
           <img src="img/teddybear/family.jpg" alt="Cute family with Teddy Bear" class="center"/>
           <br>
           <img src="img/teddybear/mayor and todd with teddy.jpg" alt="Mayor Shane Bemis with Todd Kirnan" class="center"/>
-          <p>Mayor Shane Bemis with Todd Kirnan</p>
+          <p>Mayor Shane Bemis with "Mr. Gresham" Todd Kirnan</p>
           <br>
           <img src="img/teddybear/kiss teddy.jpg" alt="Someone kisses the teddy bear" class="center"/>
+          <p>Locals Hillary and Debbie</p>
           <br>
           <img src="img/teddybear/people.jpg" alt="Couple with the teddy bear" class="center"/>
+          <p>Artist Chad Caswell and wife Erin</p>
           <br>
           <img src="img/teddybear/charlotte.jpg" alt="Charlotte with the Teddy Bear" class="center"/>
+          <p>Charlotte Becker with Teddy</p>
           <br>
           <img src="img/teddybear/lots of people.jpg" alt="Lots of people with the teddy bear" class="center"/>
+          <p>Carol Nielson with her family</p>
           <br>
           <img src="img/teddybear/everyone.jpg" alt="Everyone sitting with the Teddy Bear" class="center"/>
+          <p>Joan Albertson, Mayor Bemis, Teddy, Alix Bemis, Chad Caswell with Gresham Soroptomist looking on.</p>
           <p>Come by downtown Gresham to check out this great new addition.</p>
         </div>
       </div>
