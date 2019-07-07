@@ -7,7 +7,7 @@
     #event {
       <?php
         date_default_timezone_set('America/Los_Angeles');
-        if (new DateTime() > new DateTime("2018-09-25 16:00:00")) {
+        if (new DateTime() > new DateTime("2019-08-01 16:00:00")) {
             echo 'display:none';
         }
       ?>
@@ -33,7 +33,7 @@
         <div class="col-md-2"></div>
         <div class="col-md-8" id="event">
           <h2 class="text-center">Upcoming Event!</h2>
-          <img src="img/todd_flyer.jpg" alt="September 22nd Todd Kirnan Event!" id="event-photo" />
+          <img src="img/artsfestival2019.jpg" alt="Gresham Arts Festival July 19th & 20th, 2019" id="event-photo" />
           <br>
         </div>
         <div class="col-md-2"></div>
@@ -42,9 +42,9 @@
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
-          <img src="img/judycommunityhotlinejuly.jpg" alt="Photo of Judy on Community Hotline" />
+          <img src="img/communityhotlinejune2019.png" alt="Photo of Judy on Community Hotline" />
           <h2>What's new <br>with GOPA?</h2>
-          <h3>Updated: 7/3/2018</h3>
+          <h3>Updated: 7/6/2019</h3>
           <br>
           <br>
           <br>

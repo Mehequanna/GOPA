@@ -20,6 +20,21 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
+          <h2>Judy on Community Hotline! June 26th, 2019</h2>
+          <br>
+          <img src="img/communityhotlinejune2019.png" alt="Judy with Carla and Monica on Community Hotline" class="center"/>
+          <p>Judy Han and Sasha Konell join Monica Weitzel on Community Hotline. They talk about the Gresham Arts Festival happening on July 19th and 20th, 2019!</p>
+          <br>
+          
+          <iframe src="https://player.vimeo.com/video/345077180" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+          <p>Make full screen for best viewing results.</p>
+        </div>
+      </div><!-- row div close -->
+
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <h2>Judy on Community Hotline! July 4th, 2018</h2>
           <br>
           <img src="img/judycommunityhotlinejuly.jpg" alt="Judy with Carla and Monica on Community Hotline" class="center"/>
