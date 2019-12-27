@@ -53,6 +53,13 @@
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
         <div class="col-md-4 text-center">
+          <img src="img/blessthenest/nestjudylynn.jpg" alt="Judy and Lynn with Bless the Nest statue" />
+          <h2>Bless the Nest</h2>
+          <h3>by Heather Soderberg</h3>
+          <br>
+          <a href="blessthenest.php" class="btn btn-primary">Read More</a>
+        </div>
+        <div class="col-md-4 text-center">
           <img src="img/teddybear/everyone.jpg" alt="Everyone surrounding the Teddy Bear" />
           <h2>Teddy Bear</h2>
           <h3>by Chad Caswell</h3>
