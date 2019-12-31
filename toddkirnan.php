@@ -104,6 +104,11 @@
           <p>Once the piece was completed in clay, and received the thumbs-up from Kirnan, her whole team put it through the 21-step casting process to immortalize him in bronze. The process took only three months, which is an incredibly short time for this type of art. In addition to Soderberg-Greene, Rich Greene, Don Berry, Brenda Stipan and Mauro Alvarez all worked to finish the sculpture in time for the party. Alvarez even canceled a huge family vacation to finish the piece.</p>
 
           <p>"It was all worth it to see Todd with the piece," Soderberg-Greene said.</p>
+
+          <p>
+            Read the original article by Christopher Keizur at: <br>
+            <a href="https://pamplinmedia.com/go/42-news/407245-305698-man-about-town" target="_blank">https://pamplinmedia.com/go/42-news/407245-305698-man-about-town</a>
+          </p>
         </div>
       </div><!-- row div close -->
 

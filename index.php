@@ -52,6 +52,23 @@
           <br>
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
+
+        <div class="col-md-4 text-center">
+          <img src="img/blessthenest/nestjudylynn.jpg" alt="Judy and Lynn with Bless the Nest statue" />
+          <h2>Bless the Nest</h2>
+          <h3>by Heather Soderberg</h3>
+          <br>
+          <a href="blessthenest.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
+          <img src="img/imagine/glassart.jpg" alt="Glass fixtures" />
+          <h2>Imagine</h2>
+          <h3>by Jen Fuller</h3>
+          <br>
+          <a href="imagine.php" class="btn btn-primary">Read More</a>
+        </div>
+
         <div class="col-md-4 text-center">
           <img src="img/teddybear/everyone.jpg" alt="Everyone surrounding the Teddy Bear" />
           <h2>Teddy Bear</h2>
@@ -63,6 +80,7 @@
           <br>
           <a href="teddybear.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/todd_alone.jpg" alt="Photo of Todd Kirnan posing." />
           <h2>Todd Kirnan's Statue</h2>
@@ -70,6 +88,7 @@
           <br>
           <a href="toddkirnan.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/bikeracks/bikerack.jpg" alt="Bike Racks in Downtown Gresham" />
           <h2>Vintage Style<br>Bike Racks</h2>
@@ -78,6 +97,7 @@
           <br>
           <a href="bikerack.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/blue/bluehead.jpg" alt="Blue Heron Sculpture" />
           <h2>Blue</h2>
@@ -89,6 +109,7 @@
           <br>
           <a href="blue.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/harvestmural/berryharvestmural.jpg" alt="Finished Berry Harvest Mural" />
           <h2>Berry Harvest Mural</h2>
@@ -100,6 +121,7 @@
           <br>
           <a href="berryharvest.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/nadaka/nadakapark.jpg" alt="Nadaka Nature Park Postcard" />
           <h2>Nadaka Nature Park</h2>
@@ -108,6 +130,7 @@
           </h3>
           <a href="nadakanaturepark.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/driscoll.jpg" alt="Driscoll in Downtown Gresham" />
           <h2>Driscoll</h2>
@@ -115,6 +138,7 @@
           <br>
           <a href="driscoll.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/mural.jpg" alt="Photo of Mural on Main Street" />
           <h2>Main Street Mural</h2>
@@ -125,6 +149,7 @@
           <br>
           <a href="mural.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/crash.jpg" alt="Crash Statue in Downtown Gresham" />
           <h2>Crash</h2>
@@ -135,6 +160,7 @@
           <br>
           <a href="crash.php" class="btn btn-primary">Read More</a>
         </div>
+
         <div class="col-md-4 text-center">
           <img src="img/familyties.jpg" alt="Family Ties in Downtown Gresham" />
           <h2>Family Ties</h2>
