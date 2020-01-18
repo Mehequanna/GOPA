@@ -4,7 +4,7 @@
   <body>
     <!-- Start Navbar -->
     <?php
-      $current = 'blessthenest';
+      $current = 'blessournest';
       include 'navbar.php';
     ?>
     <!-- End Navbar -->
@@ -20,12 +20,12 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-          <h2>Bless the Nest Statue</h2>
+          <h2>Bless Our Nest Statue</h2>
           <br>
-          <img src="img/blessthenest/happylynn.jpg" alt="Lynn Snodgrass presenting statue" class="center"/>
+          <img src="img/blessournest/happylynn.jpg" alt="Lynn Snodgrass presenting statue" class="center"/>
           <br>
-          <img src="img/blessthenest/nestjudylynn.jpg" alt="Lynn Snodgrass presenting statue" class="center"/>
-          <p>Lynn Snodgrass, CEO of the Gresham Chamber, and Judy Han, Chair of Gresham Outdoor Public Art, presenting Bless the Nest statue.</p>
+          <img src="img/blessournest/nestjudylynn.jpg" alt="Lynn Snodgrass presenting statue" class="center"/>
+          <p>Lynn Snodgrass, CEO of the Gresham Chamber, and Judy Han, Chair of Gresham Outdoor Public Art, presenting Bless Our Nest statue.</p>
         </div>
       </div><!-- row div close -->
 
@@ -34,7 +34,7 @@
         <div class="col-lg-10 body">
           <h2>Downtown welcomes bronze duck family <br>by Christopher Keizur for Gresham Outlook</h2>
           <br>
-          <img src="img/blessthenest/nestarticle1.jpg" alt="Children admiring Bless the Nest" class="center"/>
+          <img src="img/blessournest/nestarticle1.jpg" alt="Children admiring Bless Our Nest" class="center"/>
           Outlook Photo: Christopher Keizur
           <br>
           <br>
@@ -45,7 +45,7 @@
           The latest bronze sculpture was unveiled Friday evening, July 19, during the Art Under the Stars, which officially kicks off the Gresham Arts Festival.
           The unveiling of "Bless Our Nest," presented and funded by the Gresham Area Chamber of Commerce, is a piece featuring a family of seven wood ducks — a mother, father and five baby ducklings. There is plenty to discover on the statue, as there is also a painted turtle, spotted frog and many other creatures.</p>
 
-          <img src="img/blessthenest/nestarticle2.jpg" alt="Bless the Nest statue" class="center"/>
+          <img src="img/blessournest/nestarticle2.jpg" alt="Bless Our Nest statue" class="center"/>
           Outlook Photo: Christopher Keizur
           <br>
           <br>
@@ -55,7 +55,7 @@
 
           <p>The statue was made by Heather Soderberg, a Cascade Locks-based artist, who attended the unveiling. Soderberg already has several statues in place across downtown Gresham. She made "Driscoll" the bronze guide dog, "Blue" the bronze heron, and the "Mister Gresham" statue of Todd Kirnan, all of which are located at the same intersection.</p>
 
-          <img src="img/blessthenest/nestarticle3.jpg" alt="Lynn looking at Bless the Nest statue" class="center"/>
+          <img src="img/blessournest/nestarticle3.jpg" alt="Lynn looking at Bless Our Nest statue" class="center"/>
           Outlook Photo: Christopher Keizur
           <br>
           <br>
