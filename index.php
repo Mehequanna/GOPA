@@ -54,11 +54,11 @@
         </div>
 
         <div class="col-md-4 text-center">
-          <img src="img/blessthenest/nestjudylynn.jpg" alt="Judy and Lynn with Bless the Nest statue" />
-          <h2>Bless the Nest</h2>
+          <img src="img/blessournest/nestjudylynn.jpg" alt="Judy and Lynn with Bless Our Nest statue" />
+          <h2>Bless Our Nest</h2>
           <h3>by Heather Soderberg</h3>
           <br>
-          <a href="blessthenest.php" class="btn btn-primary">Read More</a>
+          <a href="blessournest.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
