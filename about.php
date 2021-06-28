@@ -22,15 +22,11 @@
         <div class="col-lg-10 body text-center">
           <h2>About Us</h2>
           <br>
-          <h4>Our Purpose:</h4>
-          <p>To obtain and place durable, free standing art sculptures crafted by local artists to provide ongoing educational and cultural experiences and also to cultivate appreciation of what visual, touchable outdoor art can do to enrich our community.</p>
+          <h4>Our Goal:</h4>
+          <p>To obtain and install locally crafted, permanent outdoor art for Gresham, which will contribute to ongoing educational and cultural experiences and cultivate appreciation of what visual, touchable art can do to enrich our imaginations, our lives and our community.</p>
           <br>
           <h4>Our Beginning:</h4>
-          <p>The Art Walk Etc. organization is a group of individuals and supporters that partner together to build community using art as the vehicle. Art Walk Etc. created the Gresham Outdoor Public Art (GOPA) Project to exhibit art in permanent places – outside - so it lives and is a part of the community. Our legacy as an organization is the creation and success, for twelve years, of the Gresham Art Walk. Gresham Art Walk was created in 2002 by a small group of volunteers who loved art – all kinds of art! The 3rd Saturday in July brought 10,000+ attendees of all ages and walks of life to this free, one-day event. A desire to branch out and do more art projects in the community on a smaller scale, the Gresham Art Walk, after a year of mentoring, was gifted to the City of Gresham and Gresham Outdoor Public Art (GOPA) was born.</p>
-          <p>Art Walk Etc. is a 501c3 and formed the Gresham Outdoor Public Art (GOPA). Our Federal Tax ID is 59-3781305</p>
-          <br>
-          <h4>Our Goals:</h4>
-          <p>Our program goals for Gresham Outdoor Public Art (GOPA) are: to acquire durable, free standing art sculptures or works crafted locally by established and student artists, and to provide an economic benefit and ongoing educational and cultural experience for Gresham and the surrounding communities, and to cultivate the appreciation of what visual outdoor art can do to enhance the livability of Gresham.</p>
+          <p>Art Walk Etc. is a 501.c3 volunteer organization made up of individuals and supporters who work together to build community, using art as the vehicle. Our first project was the Gresham Art Walk in 2002, created by a small group of volunteers who loved art – all kinds of art! What began as a showcase for a handful of artists became THE Gresham event to attend on the third Saturday in July, ultimately drawing as many as 20,000 attendees to downtown Gresham each year. The desire to support more permanent, smaller scale art projects led to the organization's gifting the Art Walk event to the City of Gresham after a one-year mentorship in 2014. With that, Gresham Outdoor Public Art (GOPA) was born to bring art into public spaces as a permanent legacy to enrich and enhance the community.</p>
         </div>
       </div><!-- row div close -->
     </div><!-- container div close -->
