@@ -39,7 +39,7 @@
           <br>
           <br>
 
-          <p><strong>Latest sculpture from Heather Soderberg unveiled during Gresham Arts Festival</strong></p>
+          <p><strong>Latest sculpture from Heather Greene unveiled during Gresham Arts Festival</strong></p>
 
           <p>A family of ducks has moved into downtown Gresham.
           The latest bronze sculpture was unveiled Friday evening, July 19, during the Art Under the Stars, which officially kicks off the Gresham Arts Festival.
@@ -53,7 +53,7 @@
           <p>The statue, which was also brought to the community thanks to the efforts of Gresham Outdoor Public Art, is located at the corner of Northwest Third Avenue and North Main Avenue, in front of Café Delirium.
           "This intersection now symbolizes all of Gresham with these amazing pieces," said Lynn Snodgrass, CEO of the Gresham Chamber. "We have now completed this intersection with all the art."</p>
 
-          <p>The statue was made by Heather Soderberg, a Cascade Locks-based artist, who attended the unveiling. Soderberg already has several statues in place across downtown Gresham. She made "Driscoll" the bronze guide dog, "Blue" the bronze heron, and the "Mister Gresham" statue of Todd Kirnan, all of which are located at the same intersection.</p>
+          <p>The statue was made by Heather Greene, a Cascade Locks-based artist, who attended the unveiling. Greene already has several statues in place across downtown Gresham. She made "Driscoll" the bronze guide dog, "Blue" the bronze heron, and the "Mister Gresham" statue of Todd Kirnan, all of which are located at the same intersection.</p>
 
           <img src="img/blessournest/nestarticle3.jpg" alt="Lynn looking at Bless Our Nest statue" class="center"/>
           Outlook Photo: Christopher Keizur

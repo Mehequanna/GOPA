@@ -56,7 +56,7 @@
         <div class="col-md-4 text-center">
           <img src="img/blessournest/nestjudylynn.jpg" alt="Judy and Lynn with Bless Our Nest statue" />
           <h2>Bless Our Nest</h2>
-          <h3>by Heather Soderberg</h3>
+          <h3>by Heather Greene</h3>
           <br>
           <a href="blessournest.php" class="btn btn-primary">Read More</a>
         </div>
@@ -84,7 +84,7 @@
         <div class="col-md-4 text-center">
           <img src="img/todd_alone.jpg" alt="Photo of Todd Kirnan posing." />
           <h2>Todd Kirnan's Statue</h2>
-          <h3>by Heather Soderberg</h3>
+          <h3>by Heather Greene</h3>
           <br>
           <a href="toddkirnan.php" class="btn btn-primary">Read More</a>
         </div>
@@ -101,7 +101,7 @@
         <div class="col-md-4 text-center">
           <img src="img/blue/bluehead.jpg" alt="Blue Heron Sculpture" />
           <h2>Blue</h2>
-          <h3>by Heather Soderberg</h3>
+          <h3>by Heather Greene</h3>
           <br>
           <br>
           <br>
@@ -134,7 +134,7 @@
         <div class="col-md-4 text-center">
           <img src="img/driscoll.jpg" alt="Driscoll in Downtown Gresham" />
           <h2>Driscoll</h2>
-          <h3>by Heather Soderberg</h3>
+          <h3>by Heather Greene</h3>
           <br>
           <a href="driscoll.php" class="btn btn-primary">Read More</a>
         </div>
