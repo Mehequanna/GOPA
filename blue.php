@@ -22,28 +22,35 @@
         <div class="col-lg-10 body text-center">
           <h2>Blue</h2>
           <br>
-          <img src="img/blue/bluehead.jpg" alt="Head of Blue the Heron"/>
+          <img src="img/blue/blue-small.jpg" alt="Blue the heron statue"/>
           <p>
-            “Greene approached Han and the rest of GOPA with the idea of having a heron sculpture as the next piece of public art in Gresham, because of how prolific the bird is to the region. She had the cast already made, after a commission from the city of Lake Oswego, and wanted to create one for Gresham.
+            During the Gresham Arts Festival in 2017, "Blue" the heron was installed. A blue heron was chosen for this project because of how prolific the bird is to the region.
           </p>
-          <img src="img/blue/blueeast.jpg" alt="Blue the Heron" class="center"/>
           <p>
-            “Usually the cost of a bronze sculpture that large would have prevented GOPA from accepting, but Greene's generosity made it possible.
+            She was brought to the community by the Gresham Outdoor Public Art (GOPA) committee, a nonprofit organization. For Greene the decision was an easy one. This was the first city she called home when she moved to the state, and her love for Gresham hasn't faded. 
           </p>
-          <img src="img/blue/bluewest.jpg" alt="Blue the Heron" class="center"/>
           <p>
-            “‘Heather told me I have a bronze heron that I will sell to you for the price of a metal one,’ Han said, an offer that severely reduced the price and allowed ‘Blue’ to come to Gresham.
+            "Heather is a one-of-a-kind, very special person," said Judy Han, president of GOPA. "We are lucky to have her work in our community." 
           </p>
-          <img src="img/blue/settingup.jpg" alt="Setting up Blue prior to reveal" class="center"/>
           <p>
-            “‘When we pulled the tarp off the sculpture I remember seeing how surprised (Gresham Mayor Shane Bemis') face was,’ Han said. ‘It is a special piece for the community.’”
+            Greene uses the lost-wax casting method, which is the same style that the Renaissance greats like Michelangelo used — with the added benefit of new technology to make the process smoother. The technique allows for intricate details to be included in the piece, as a duplicate metal sculpture is cast from an original. 
           </p>
-          <img src="img/blue/posingwithblue.jpg" alt="Posing with the finished sculpture." class="center"/>
+          <p>
+            She sculpts everything by hand, and tends to begin with the head and face of her sculpture. That allows her to shape the rest of the piece around it, guided by the personality and character she first envisioned.
+          </p>
+          <p>
+            “‘When we pulled the tarp off the sculpture I remember seeing how surprised [Gresham Mayor Shane Bemis'] face was,’ Han said. ‘It is a special piece for the community.’”
+          </p>
           <p>
             Read the original article by Christopher Keizur at: <br>
             <a href="http://www.pamplinmedia.com/go/42-news/369200-251337-bronze-by-design-in-downtown-gresham" target="_blank">http://www.pamplinmedia.com/go/42-news/369200-251337-bronze-by-design-in-downtown-gresham</a>
           </p>
-          <br>
+        </div>
+      </div><!-- row div close -->
+
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <img src="img/heather.jpg" alt="Heather with Driscoll" />
           <h2 class="text-center">Artist: Heather Greene</h2>
           <p class="text-center">Heather Greene was curious from early on and had a fascination with her father working in a bronze foundry. At a year old her father gave her some soft wax and hours later she had created a sculpture of 5 variations of the female form. By age 2 she sculpted over 100 pieces which her father cast in bronze. At the age of 3 she sold 30 pieces at her first art show and was hired to sculpt her first commission.</p>
