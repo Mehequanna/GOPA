@@ -54,6 +54,18 @@
         </div>
 
         <div class="col-md-4 text-center">
+          <img src="img/sunday/sunday-small.jpg" alt="Statue of Sunday couple in front of the Carnegie Library." />
+          <h2>Sunday at the Carnegie</h2>
+          <h3>by Heather Greene</h3>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <a href="sundayatthecarnegie.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
           <img src="img/blessournest/nestjudylynn.jpg" alt="Judy and Lynn with Bless Our Nest statue" />
           <h2>Bless Our Nest</h2>
           <h3>by Heather Greene</h3>
