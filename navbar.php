@@ -20,6 +20,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
+            <li <?php if($current == 'littlelibrary') {echo 'class="active"';} ?>><a href="littlelibrary.php">Little Library</a></li>
             <li <?php if($current == 'sundayatthecarnegie') {echo 'class="active"';} ?>><a href="sundayatthecarnegie.php">Sunday at the Carnegie</a></li>
             <li <?php if($current == 'blessournest') {echo 'class="active"';} ?>><a href="blessournest.php">Bless Our Nest Statue</a></li>
             <li <?php if($current == 'imagine') {echo 'class="active"';} ?>><a href="imagine.php">Imagine</a></li>
