@@ -4,7 +4,7 @@
   <body>
     <!-- Start Navbar -->
     <?php
-      $current = 'driscoll';
+      $current = 'sundayatthecarnegie';
       include 'navbar.php';
     ?>
     <!-- End Navbar -->
@@ -15,22 +15,25 @@
     <!-- End Header -->
 
     <!-- Start Body -->
-    <div class="container">
+    <div class="container text-center">
       <img src="img/divider.png" alt="Page Divider" id="divider"/>
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-          <h2 class="text-center">Driscoll</h2>
+          <h2>Sunday at the Carnegie</h2>
           <br>
-          <img src="img/driscoll.jpg" alt="Driscoll in downtown Gresham" class="center"/>
-          <p class="text-center">“Driscoll’s addition to the community comes as part of the Gresham Outdoor Public Art effort, chaired by Judy Han. Money to pay for his creation and installation was raised through personal donations and contributions from service clubs, including the Gresham Breakfast Lions Club. Lions Clubs have traditionally supported many vision and blindness-related initiatives.</p>
-          <p class="text-center">“‘Han described guide dogs as being part of “the fabric of the community.’</p>
-          <p class="text-center">“‘That’s what we see every day,’ she said.”</p>
+          <img src="img/sunday/sunday-page.jpg" alt="Statue of Sunday couple in front of the Carnegie Library." class="center"/>
+          <p>"Sunday at the Carnegie," is a statue that memorializes the founding residents of Gresham and the 1913 completion of the historic Carnegie Library, now Gresham History Museum, 410 N. Main Ave.</p>
 
-          <p class="text-center">Read more at:<br>
-          <a href="http://www.pamplinmedia.com/go/42-news/315440-194378-a-dogs-day" target="_blank">http://www.pamplinmedia.com/go/42-news/315440-194378-a-dogs-day</a></p>
-          <br>
-          <br>
+          <p>Created by prolific sculptor Heather Greene, this sculpture depicts a couple walking arm-in-arm donning traditional garb at the turn of the century. There is no name attached to the 850-pound sculpture as a way to allow every Gresham resident to imagine their own ancestors in the statue. Heather sculpted the faces using photos of people from all over the world.  She wanted the statue to honor the many different cultures in Gresham’s history.</p>
+
+          <p>"This is a piece of art that celebrates Gresham's history," said Judy Han during the Sunday, May 23, dedication.</p>
+        </div>
+      </div><!-- row div close -->
+
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <img src="img/heather.jpg" alt="Heather with Driscoll" />
           <h2 class="text-center">Artist: Heather Greene</h2>
           <p class="text-center">Heather Greene was curious from early on and had a fascination with her father working in a bronze foundry. At a year old her father gave her some soft wax and hours later she had created a sculpture of 5 variations of the female form. By age 2 she sculpted over 100 pieces which her father cast in bronze. At the age of 3 she sold 30 pieces at her first art show and was hired to sculpt her first commission.</p>

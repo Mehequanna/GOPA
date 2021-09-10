@@ -38,13 +38,10 @@
           <img src="img/bikeracks/icandybikerack.jpg" alt="Red bike rack wagon next to iCandy." class="center"/>
           <p>This cute red bike rack wagon sits on the north side of iCandy on 4th street.</p>
           <br>
-          <img src="img/bikeracks/sugarcubedbikerack.jpg" alt="Kayla, owner of Sugar Cubed, poses with the new green bike rack on 1st and Main Ave." class="center"/>
-          <p>Kayla, owner of Sugar Cubed, poses with the new green bike rack on 1st and Main Ave.</p>
-          <br>
-          <p>Bike Farm on Powell in front of the farm murals and Jazzy Bagels.</p>
           <img src="img/bikeracks/jazzyfarmbikerack.jpg" alt="Bike farm racks in front of farm mural." class="center"/>
           <img src="img/bikeracks/jazzylongbikerack.jpg" alt="Long bike rack in front of Jazzy Bagel." class="center"/>
           <img src="img/bikeracks/jazzywheelbikerack.jpg" alt="Two bike racks in front of Jazzy Bagel." class="center"/>
+          <p>Bike Farm on Powell in front of the farm murals and Jazzy Bagels.</p>
         </div>
       </div>
 

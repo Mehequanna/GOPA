@@ -30,16 +30,6 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-          <h2>KXL Interviews Todd Kirnan!</h2>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/Dtvc1mRytSw" frameborder="0" allowfullscreen class="center"></iframe>
-          <br>
-          <p>KXL interviews Todd Kirnan about his upcoming event and statue unveiling.</p>
-        </div>
-      </div><!-- row div close -->
-
-      <div class="row">
-        <div class="col-lg-1"></div>
-        <div class="col-lg-10 body">
           <h2>Man About Town <br>by Christopher Keizur for Gresham Outlook</h2>
           <br>
           <p>One afternoon Gresham Fire Chief Greg Matthews was cruising through the city when he spotted Todd Kirnan — commonly considered the community's kindest resident.</p>
@@ -57,7 +47,7 @@
 
           <br>
           <br>
-          <p>The life-sized bronze statue, created by Cascade Locks-based artist Heather Soderberg-Greene, shows Kirnan with his patented smile delivering food in a Clyde Drexler Portland Trail Blazers jersey. The creation is found at the corner of Main Avenue and Third Street in the heart of downtown Gresham.</p>
+          <p>The life-sized bronze statue, created by Cascade Locks-based artist Heather Greene, shows Kirnan with his patented smile delivering food in a Clyde Drexler Portland Trail Blazers jersey. The creation is found at the corner of Main Avenue and Third Street in the heart of downtown Gresham.</p>
 
           <p>"Thank you for everyone being here for me," Kirnan said. "I love you guys."</p>
 
@@ -85,25 +75,25 @@
 
           <h3>Bronzing Todd</h3>
 
-          <p>Sculpting Kirnan was a fun process for Soderberg-Greene, as it was the first time she has captured the likeness of a living person.</p>
+          <p>Sculpting Kirnan was a fun process for Greene, as it was the first time she has captured the likeness of a living person.</p>
 
           <p>Usually she has to depict the spirit of her subject via grainy black-and-white photographs. This time, however, she was able to interact with Kirnan while crafting the piece. That included measurements and having him pose every which way.</p>
 
-          <p>"He is so fun to sculpt," Soderberg-Greene said. "Todd is the best model I've ever had."</p>
+          <p>"He is so fun to sculpt," Greene said. "Todd is the best model I've ever had."</p>
 
-          <p>The first step in bronzing Kirnan was a photo shoot to capture all of the images Soderberg-Greene later used for her work. The pose was never in question, as showing Kirnan helping others by delivering food depicts the spirit he brings to the city.</p>
+          <p>The first step in bronzing Kirnan was a photo shoot to capture all of the images Greene later used for her work. The pose was never in question, as showing Kirnan helping others by delivering food depicts the spirit he brings to the city.</p>
 
-          <p>When sculpting, Soderberg-Greene always starts with the face, as it's the focal point of the entire piece.</p>
+          <p>When sculpting, Greene always starts with the face, as it's the focal point of the entire piece.</p>
 
           <p>"Todd has such a unique face, so it's tricky to get the look," she said.</p>
 
-          <p>As Soderberg-Greene worked, she would constantly go back and tweak different aspects of the sculpture. The difficulty is that a statue is a three-dimensional object.</p>
+          <p>As Greene worked, she would constantly go back and tweak different aspects of the sculpture. The difficulty is that a statue is a three-dimensional object.</p>
 
           <p>"A statue is less about form than it is about light and shadow," she said. "Clay is different than bronze, because you get an organic feel rather than metal. So, you have to think about how it will all look when its finished."</p>
 
-          <p>Once the piece was completed in clay, and received the thumbs-up from Kirnan, her whole team put it through the 21-step casting process to immortalize him in bronze. The process took only three months, which is an incredibly short time for this type of art. In addition to Soderberg-Greene, Rich Greene, Don Berry, Brenda Stipan and Mauro Alvarez all worked to finish the sculpture in time for the party. Alvarez even canceled a huge family vacation to finish the piece.</p>
+          <p>Once the piece was completed in clay, and received the thumbs-up from Kirnan, her whole team put it through the 21-step casting process to immortalize him in bronze. The process took only three months, which is an incredibly short time for this type of art. In addition to Greene, Rich Greene, Don Berry, Brenda Stipan and Mauro Alvarez all worked to finish the sculpture in time for the party. Alvarez even canceled a huge family vacation to finish the piece.</p>
 
-          <p>"It was all worth it to see Todd with the piece," Soderberg-Greene said.</p>
+          <p>"It was all worth it to see Todd with the piece," Greene said.</p>
 
           <p>
             Read the original article by Christopher Keizur at: <br>
@@ -119,29 +109,6 @@
           <iframe width="560" height="315" src="https://www.youtube.com/embed/bX2uSihLrAo" frameborder="0" allowfullscreen class="center"></iframe>
           <br>
           <p>Todd Kirnan on CBS Evening News!</p>
-        </div>
-      </div><!-- row div close -->
-
-      <div class="row">
-        <div class="col-lg-1"></div>
-        <div class="col-lg-10 body">
-          <h2>Todd Kirnan's Statue Fundraiser</h2>
-          <p>We are currently holding a fundraiser to commission a statue of our friend Todd. To learn more about his story, see this article from the Gresham Outlook!</p>
-          <h4><a href="https://pamplinmedia.com/go/44-features/393479-286300-mr-gresham-todd-kirnan-is-one-of-regions-extraordinary-citizens" target="blank">Click here to read Gresham Outlook's article about Todd Kirnan.</a></h4>
-          <br>
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="KRVHNN6LSGA7L">
-            <input type="image" src="img/todd_donate.jpg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" class="center" id="donate-todd">
-            <img alt="Todd's Donation Button" border="0" src="img/todd_donate.jpg" width="1" height="1">
-          </form>
-          <br>
-          <p>If you would like to make a check out instead, please use the address below and write, "For Todd's statue" in the note section.</p>
-          <p>Gresham Outdoor Public Art<br>
-          PO Box 2384<br>
-          Gresham, OR  97030<br>
-          *We will send you a receipt for tax purposes.<br>
-          Our Federal Tax ID # is 59-3781305</p>
         </div>
       </div><!-- row div close -->
     </div><!-- container div close -->

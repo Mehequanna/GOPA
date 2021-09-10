@@ -38,7 +38,24 @@
         </div>
         <div class="col-md-2"></div>
       </div><!-- End Events Section -->
+
       <img src="img/divider.png" alt="Page Divider" id="divider"/>
+
+      <div class="row"> <!-- Start Brochure Section-->
+        <div class="col-md-2"></div>
+        <div class="col-md-8" id="brochure">
+          <h2 class="text-center">Find us around Gresham!</h2>
+          <a href="brochure.php">
+            <img src="img/map-small.jpg" alt="Map of art locations around Gresham" id="map-photo" />
+          </a>
+          <br>
+          <p class="text-center">To see the full brochure, <a href="brochure.php">click here</a></p>
+        </div>
+        <div class="col-md-2"></div>
+      </div><!-- End Brochure Section -->
+
+      <img src="img/divider.png" alt="Page Divider" id="divider"/>
+
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
@@ -54,9 +71,33 @@
         </div>
 
         <div class="col-md-4 text-center">
+          <img src="img/littlelibrary/children-next-to-library.jpg" alt="Children with books next to the little library" />
+          <h2>Little Library</h2>
+          <h3>by Mark Klobas</h3>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <a href="littlelibrary.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
+          <img src="img/sunday/sunday-small.jpg" alt="Statue of Sunday couple in front of the Carnegie Library." />
+          <h2>Sunday at the Carnegie</h2>
+          <h3>by Heather Greene</h3>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <a href="sundayatthecarnegie.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
           <img src="img/blessournest/nestjudylynn.jpg" alt="Judy and Lynn with Bless Our Nest statue" />
           <h2>Bless Our Nest</h2>
-          <h3>by Heather Soderberg</h3>
+          <h3>by Heather Greene</h3>
           <br>
           <a href="blessournest.php" class="btn btn-primary">Read More</a>
         </div>
@@ -84,7 +125,7 @@
         <div class="col-md-4 text-center">
           <img src="img/todd_alone.jpg" alt="Photo of Todd Kirnan posing." />
           <h2>Todd Kirnan's Statue</h2>
-          <h3>by Heather Soderberg</h3>
+          <h3>by Heather Greene</h3>
           <br>
           <a href="toddkirnan.php" class="btn btn-primary">Read More</a>
         </div>
@@ -99,13 +140,9 @@
         </div>
 
         <div class="col-md-4 text-center">
-          <img src="img/blue/bluehead.jpg" alt="Blue Heron Sculpture" />
+          <img src="img/blue/blue-small.jpg" alt="Blue Heron Sculpture" />
           <h2>Blue</h2>
-          <h3>by Heather Soderberg</h3>
-          <br>
-          <br>
-          <br>
-          <br>
+          <h3>by Heather Greene</h3>
           <br>
           <a href="blue.php" class="btn btn-primary">Read More</a>
         </div>
@@ -134,7 +171,7 @@
         <div class="col-md-4 text-center">
           <img src="img/driscoll.jpg" alt="Driscoll in Downtown Gresham" />
           <h2>Driscoll</h2>
-          <h3>by Heather Soderberg</h3>
+          <h3>by Heather Greene</h3>
           <br>
           <a href="driscoll.php" class="btn btn-primary">Read More</a>
         </div>
