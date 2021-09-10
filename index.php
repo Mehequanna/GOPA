@@ -45,7 +45,9 @@
         <div class="col-md-2"></div>
         <div class="col-md-8" id="brochure">
           <h2 class="text-center">Find us around Gresham!</h2>
-          <img src="img/map-small.jpg" alt="Map of art locations around Gresham" id="map-photo" />
+          <a href="brochure.php">
+            <img src="img/map-small.jpg" alt="Map of art locations around Gresham" id="map-photo" />
+          </a>
           <br>
           <p class="text-center">To see the full brochure, <a href="brochure.php">click here</a></p>
         </div>
