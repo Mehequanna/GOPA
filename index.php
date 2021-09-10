@@ -38,7 +38,22 @@
         </div>
         <div class="col-md-2"></div>
       </div><!-- End Events Section -->
+
       <img src="img/divider.png" alt="Page Divider" id="divider"/>
+
+      <div class="row"> <!-- Start Brochure Section-->
+        <div class="col-md-2"></div>
+        <div class="col-md-8" id="brochure">
+          <h2 class="text-center">Find us around Gresham!</h2>
+          <img src="img/map-small.jpg" alt="Map of art locations around Gresham" id="map-photo" />
+          <br>
+          <p class="text-center">To see the full brochure, <a href="brochure.php">click here</a></p>
+        </div>
+        <div class="col-md-2"></div>
+      </div><!-- End Brochure Section -->
+
+      <img src="img/divider.png" alt="Page Divider" id="divider"/>
+
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
