@@ -61,7 +61,7 @@
         <div class="col-md-4 text-center">
           <img src="img/communityhotlinejune2019.png" alt="Photo of Judy on Community Hotline" />
           <h2>What's new <br>with GOPA?</h2>
-          <h3>Updated: 7/6/2019</h3>
+          <h3>Updated: 9/19/2021</h3>
           <br>
           <br>
           <br>
@@ -216,9 +216,9 @@
     <div class="row"> <!-- Start Quotes Section-->
       <div class="col-md-2"></div>
       <div class="col-md-8" id="quote">
-        <h5 class="text-center">“I applaud the work that GOPA is doing to bring    public art to our community. Each unique piece reflects Gresham’s love of the arts while enhancing the flavor and feeling of our community.”
+        <h5 class="text-center">“Art transcends cultural and ethnic limitations, it extends to everyone the opportunity to appreciate the creativity of another. Public art is the unencumbered sharing of the creative expression that can enhance the lives of everyone and is not bound by the restrictions of admission.”
           <br>
-        ~ Shane Bemis
+        ~ Travis Stovall
           <br>
           Mayor of Gresham, Oregon
         </h5>

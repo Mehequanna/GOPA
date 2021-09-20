@@ -20,12 +20,24 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
+          <h2>Quote from Gresham Mayor, Travis Stovall</h2>
+          <br>
+          <p>“Art transcends cultural and ethnic limitations, it extends to everyone the opportunity to appreciate the creativity of another. Public art is the unencumbered sharing of the creative expression that can enhance the lives of everyone and is not bound by the restrictions of admission.”
+            <br>
+          ~ Travis Stovall</p>
+        </div>
+      </div><!-- row div close -->
+
+      <img src="img/divider.png" alt="Page Divider" id="divider"/>
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <h2>Judy on Community Hotline! June 26th, 2019</h2>
           <br>
           <img src="img/communityhotlinejune2019.png" alt="Judy with Carla and Monica on Community Hotline" class="center"/>
           <p>Judy Han and Sasha Konell join Monica Weitzel on Community Hotline. They talk about the Gresham Arts Festival happening on July 19th and 20th, 2019!</p>
           <br>
-          
+
           <iframe src="https://player.vimeo.com/video/345077180" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
           <p>Make full screen for best viewing results.</p>
