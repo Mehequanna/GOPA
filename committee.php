@@ -57,6 +57,12 @@
           <h4>Kathy Toynbee</h4>
           <p>Kathy Toynbee has lived in Gresham for 36 years and has served the community as a volunteer in many ways, including as a seven-year member of the Mt. Hood Community College Foundation. Kathy’s love for art began while working for bronze sculptor, Rip Caswell. During her years with Caswell, Kathy managed Caswell’s public art commissions, from proposal to installation. Having met and developed relationships with many artists from the Pacific NW, Kathy’s appreciation for art of all mediums has flourished. She believes art is meant to be shared with viewers from all walks of life and that art can help build community spirit and strength.</p>
           <br>
+          <h4>Rachel Emery</h4>
+          <p>Rachel was born and raised in the Portland/Gresham area. Growing up she enjoyed learning about and doing various art forms from around the world. Rachel also volunteered for a few non-profits. She worked as a manager and served as a Board Member for <em>Chase Me Again</em>, a local nonprofit thrift store. She also designed brochures and flyers for GOPA in their early days. Currently she is a stay at home mom with two beautiful boys.</p>
+          <br>
+          <h4>Stephen Emery</h4>
+          <p>Stephen and his two sons are members of the <em>Chickahominy Eastern Tribe</em>. He has worked with Gresham Outdoor Art for over six years doing a variety  of technical support  and building the website. He currently works as an Android and iOS developer focusing on augmented reality. Stephen and his wife Rachel have collected a number of art pieces around SE Asia and have started collecting Native art in the U.S. He is excited to bring Native and other cultural art to the Gresham area.</p>
+          <br>
           <h4>Mike Hill      1945 - 2016 In Memoriam</h4>
           <p>Mike was a watercolor artist extraordinaire. A member of the Gresham-Barlow School Board for nine years, Chairperson of Citizens for Schools, promoting school bond measures for over twenty years, past Board member and Artistic Advisor for the Gresham Art Walk from its inception, a jurist for the annual juried event, member of the National Watercolor Society, American Watercolor Society and signature member of the Northwest Watercolor Society. Mike’s artwork is in many City Hall offices as well as a mural in the City Council Chambers.</p>
         </div><!-- body div close -->
