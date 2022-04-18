@@ -67,8 +67,19 @@
           <br>
           <br>
           <br>
+            <br>
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
+
+          <div class="col-md-4 text-center">
+              <img src="img/marketplace/fruit.jpg" alt="Rico Alvarez in front of his fruit mural hanging in Rockwood Marketplace." />
+              <h2>Rockwood Marketplace Murals</h2>
+              <h3>by Rico Alvarez</h3>
+              <br>
+              <br>
+              <br>
+              <a href="marketplacemurals.php" class="btn btn-primary">Read More</a>
+          </div>
 
         <div class="col-md-4 text-center">
           <img src="img/littlelibrary/children-next-to-library.jpg" alt="Children with books next to the little library" />
