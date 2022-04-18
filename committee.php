@@ -37,7 +37,7 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-          <h3 class="committee text-center">Committee Members</h3>
+          <h3 class="committee text-center">Board Members</h3>
           <br>
           <h4>David Baumann</h4>
           <p>David is a private fine art collector and has been involved in the art industry through career and personal experiences for over thirty years. This experience has brought many long standing relationships with fine artists across the United States, and especially in the northwest region. He has been a Board Member of the Gresham Arts Commission, Mt. Hood Jazz Festival and the Gresham Historical Society as well as past President of the Troutdale Chamber of Commerce.</p>

@@ -59,9 +59,9 @@
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
-          <img src="img/communityhotlinejune2019.png" alt="Photo of Judy on Community Hotline" />
+          <img src="img/whatsnew/greshamisjudy.jpg" alt="Photo of Judy on Gresham is... Show" />
           <h2>What's new <br>with GOPA?</h2>
-          <h3>Updated: 9/19/2021</h3>
+          <h3>Updated: 3/1/2022</h3>
           <br>
           <br>
           <br>
