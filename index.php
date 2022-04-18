@@ -42,16 +42,16 @@
       <img src="img/divider.png" alt="Page Divider" id="divider"/>
 
       <div class="row"> <!-- Start Brochure Section-->
-        <div class="col-md-2"></div>
-        <div class="col-md-8" id="brochure">
+        <div class="col-md-1"></div>
+        <div class="col-md-10" id="brochure">
           <h2 class="text-center">Find us around Gresham!</h2>
           <a href="brochure.php">
-            <img src="img/map-small.jpg" alt="Map of art locations around Gresham" id="map-photo" />
+            <img src="img/brochure/inside-brochure-small.jpg" alt="Map of art locations around Gresham" id="map-photo" />
           </a>
           <br>
           <p class="text-center">To see the full brochure, <a href="brochure.php">click here</a></p>
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-1"></div>
       </div><!-- End Brochure Section -->
 
       <img src="img/divider.png" alt="Page Divider" id="divider"/>
@@ -59,16 +59,27 @@
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
-          <img src="img/communityhotlinejune2019.png" alt="Photo of Judy on Community Hotline" />
+          <img src="img/whatsnew/greshamisjudy.jpg" alt="Photo of Judy on Gresham is... Show" />
           <h2>What's new <br>with GOPA?</h2>
-          <h3>Updated: 9/19/2021</h3>
+          <h3>Updated: 3/1/2022</h3>
           <br>
           <br>
           <br>
           <br>
           <br>
+            <br>
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
+
+          <div class="col-md-4 text-center">
+              <img src="img/marketplace/fruit.jpg" alt="Rico Alvarez in front of his fruit mural hanging in Rockwood Marketplace." />
+              <h2>Rockwood Marketplace Murals</h2>
+              <h3>by Rico Alvarez</h3>
+              <br>
+              <br>
+              <br>
+              <a href="marketplacemurals.php" class="btn btn-primary">Read More</a>
+          </div>
 
         <div class="col-md-4 text-center">
           <img src="img/littlelibrary/children-next-to-library.jpg" alt="Children with books next to the little library" />

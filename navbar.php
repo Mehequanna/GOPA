@@ -20,6 +20,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
+            <li <?php if($current == 'marketplacemurals') {echo 'class="active"';} ?>><a href="marketplacemurals.php">Rockwood Marketplace Murals</a></li>
             <li <?php if($current == 'littlelibrary') {echo 'class="active"';} ?>><a href="littlelibrary.php">Little Library</a></li>
             <li <?php if($current == 'sundayatthecarnegie') {echo 'class="active"';} ?>><a href="sundayatthecarnegie.php">Sunday at the Carnegie</a></li>
             <li <?php if($current == 'blessournest') {echo 'class="active"';} ?>><a href="blessournest.php">Bless Our Nest Statue</a></li>
@@ -40,6 +41,8 @@
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
+          <li><a href="https://www.instagram.com/greshamoutdoorpublicart/" target="_blank"><img src="img/instagram.png" alt="instagram logo" width="24" height="24"></a> </li>
+          <li><a href="https://www.facebook.com/GreshamOutdoorPublicArt/" target="_blank"><img src="img/facebook.png" alt="facebook logo" width="24" height="24"></a> </li>
         <li <?php if($current == 'donate') {echo 'class="active"';} ?>><a href="donate.php" id="donate">Donate!</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
