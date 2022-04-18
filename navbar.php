@@ -41,6 +41,8 @@
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
+          <li><a href="https://www.instagram.com/greshamoutdoorpublicart/" target="_blank"><img src="img/instagram.png" alt="instagram logo" width="24" height="24"></a> </li>
+          <li><a href="https://www.facebook.com/GreshamOutdoorPublicArt/" target="_blank"><img src="img/facebook.png" alt="facebook logo" width="24" height="24"></a> </li>
         <li <?php if($current == 'donate') {echo 'class="active"';} ?>><a href="donate.php" id="donate">Donate!</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
