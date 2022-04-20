@@ -15,7 +15,7 @@
       <ul class="nav navbar-nav">
         <li <?php if($current == 'home') {echo 'class="active"';} ?>><a href="index.php">Home</a></li>
         <li <?php if($current == 'about') {echo 'class="active"';} ?>><a href="about.php">About Us</a></li>
-        <li <?php if($current == 'committee') {echo 'class="active"';} ?>><a href="committee.php">Committee</a></li>
+        <li <?php if($current == 'committee') {echo 'class="active"';} ?>><a href="committee.php">Board</a></li>
         <li <?php if($current == 'contact') {echo 'class="active"';} ?>><a href="contact.php">Contact Us</a></li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
