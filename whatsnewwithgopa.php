@@ -161,7 +161,7 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-          <h2>Quote from Gresham Mayor, Shane Bemis</h2>
+          <h2>Quote from Former Gresham Mayor, Shane Bemis</h2>
           <br>
           <p>“I applaud the work that GOPA is doing to bring    public art to our community. Each unique piece reflects Gresham’s love of the arts while enhancing the flavor and feeling of our community.”
             <br>
