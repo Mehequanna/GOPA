@@ -32,7 +32,7 @@
             A fresh mural on the side of Jazzy Bagels on the corner of East Powell Boulevard and North Main Avenue depicts a scene from the old Gresham Rexall Drug Co., which was located in the building from 1903 to 1996. It portrays a vibrant slice of life from around 1910, including, among many things, two boys attempting to outwit a checkers master, a couple chatting at the soda fountain and a woman purchasing her prescriptions.
           </p>
           <p>
-            In the middle stands a young woman looking out into the world, providing the highlight of the first mural commissioned by the Gresham Outdoor Public Art Committee (GOPA) and painted by Don Gray, a nationally renowned muralist and longtime Oregon resident now living in Vancouver.
+            In the middle stands a young woman looking out into the world, providing the highlight of the first mural commissioned by the Gresham Outdoor Public Art Board (GOPA) and painted by Don Gray, a nationally renowned muralist and longtime Oregon resident now living in Vancouver.
           </p>
           <p>
             “This woman is looking out to the future as we look back in time,” said Sue Myers, a local business owner and committee member.

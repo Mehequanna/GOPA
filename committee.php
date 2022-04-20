@@ -20,7 +20,7 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-          <h2>Committee</h2>
+          <h2>Board</h2>
           <h3 class="committee">Board Members</h3>
           <br>
           <h4>Judy Han, Chair</h4>

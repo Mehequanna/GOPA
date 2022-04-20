@@ -27,7 +27,7 @@
             During the Gresham Arts Festival in 2017, "Blue" the heron was installed. A blue heron was chosen for this project because of how prolific the bird is to the region.
           </p>
           <p>
-            She was brought to the community by the Gresham Outdoor Public Art (GOPA) committee, a nonprofit organization. For Greene the decision was an easy one. This was the first city she called home when she moved to the state, and her love for Gresham hasn't faded. 
+            She was brought to the community by the Gresham Outdoor Public Art (GOPA) Board, a nonprofit organization. For Greene the decision was an easy one. This was the first city she called home when she moved to the state, and her love for Gresham hasn't faded. 
           </p>
           <p>
             "Heather is a one-of-a-kind, very special person," said Judy Han, president of GOPA. "We are lucky to have her work in our community." 

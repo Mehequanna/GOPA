@@ -66,8 +66,6 @@
 
           <p>Many of the MHCC artists had never worked with glass before, and loved being able to explore the new medium. They were chosen by merit to help complete the year-long process of bringing the art into downtown.</p>
 
-          <p>Because of the complications of completing the piece, and last-minute adjustments, they realized "Possibility" was misspelled on the final panel. That part of the piece will be fixed soon.</p>
-
           <p>
             Read the original article by Christopher Keizur at: <br>
             <a href="https://pamplinmedia.com/go/42-news/397553-291418-gresham-celebrates-public-art" target="_blank">https://pamplinmedia.com/go/42-news/397553-291418-gresham-celebrates-public-art</a>

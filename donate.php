@@ -22,7 +22,7 @@
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
           <h2>For donations to Gresham Outdoor Public Art:</h2>
-          <p>The Gresham Outdoor Public Art committee is currently working on several projects. As you hear about a project you can participate with us by donating money to the fund.<br><br>
+          <p>The Gresham Outdoor Public Art Board is currently working on several projects. As you hear about a project you can participate with us by donating money to the fund.<br><br>
           Please mail checks to:<br>
           Gresham Outdoor Public Art<br>
           PO Box 2384<br>
