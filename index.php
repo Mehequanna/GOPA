@@ -81,6 +81,18 @@
               <a href="marketplacemurals.php" class="btn btn-primary">Read More</a>
           </div>
 
+          <div class="col-md-4 text-center">
+            <img src="img/mandarinduck.jpg" alt="Statue of a mandarin duck." />
+            <h2>Mandarin Duck</h2>
+            <h3>by Rip Caswell</h3>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <a href="mandarinduck.php" class="btn btn-primary">Read More</a>
+          </div>
+
         <div class="col-md-4 text-center">
           <img src="img/littlelibrary/children-next-to-library.jpg" alt="Children with books next to the little library" />
           <h2>Little Library</h2>
