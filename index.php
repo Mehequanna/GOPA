@@ -71,27 +71,35 @@
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
 
-          <div class="col-md-4 text-center">
-              <img src="img/marketplace/fruit.jpg" alt="Rico Alvarez in front of his fruit mural hanging in Rockwood Marketplace." />
-              <h2>Rockwood Marketplace Murals</h2>
-              <h3>by Rico Alvarez</h3>
-              <br>
-              <br>
-              <br>
-              <a href="marketplacemurals.php" class="btn btn-primary">Read More</a>
-          </div>
+        <div class="col-md-4 text-center">
+            <img src="img/badgesinbronze/badgesinbronze2.jpg" alt="Jeremy hold statue of boy drinking from firehose with firehouse helmet on." />
+            <h2>Badges in Bronze</h2>
+            <h3>by Jeremy Pelletier</h3>
+            <br>
+            <a href="badgesinbronze.php" class="btn btn-primary">Read More</a>
+        </div>
 
-          <div class="col-md-4 text-center">
-            <img src="img/mandarinduck.jpg" alt="Statue of a mandarin duck." />
-            <h2>Mandarin Duck</h2>
-            <h3>by Rip Caswell</h3>
+        <div class="col-md-4 text-center">
+            <img src="img/marketplace/fruit.jpg" alt="Rico Alvarez in front of his fruit mural hanging in Rockwood Marketplace." />
+            <h2>Rockwood Marketplace Murals</h2>
+            <h3>by Rico Alvarez</h3>
             <br>
             <br>
             <br>
-            <br>
-            <br>
-            <a href="mandarinduck.php" class="btn btn-primary">Read More</a>
-          </div>
+            <a href="marketplacemurals.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
+          <img src="img/mandarinduck.jpg" alt="Statue of a mandarin duck." />
+          <h2>Mandarin Duck</h2>
+          <h3>by Rip Caswell</h3>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <a href="mandarinduck.php" class="btn btn-primary">Read More</a>
+        </div>
 
         <div class="col-md-4 text-center">
           <img src="img/littlelibrary/children-next-to-library.jpg" alt="Children with books next to the little library" />
