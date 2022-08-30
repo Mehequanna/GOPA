@@ -20,6 +20,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
+            <li <?php if($current == 'hollydale') {echo 'class="active"';} ?>><a href="hollydale.php">Hollydale Nature Garden</a></li>
             <li <?php if($current == 'badgesinbronze') {echo 'class="active"';} ?>><a href="badgesinbronze.php">Badges in Bronze</a></li>
             <li <?php if($current == 'marketplacemurals') {echo 'class="active"';} ?>><a href="marketplacemurals.php">Rockwood Marketplace Murals</a></li>
             <li <?php if($current == 'mandarinduck') {echo 'class="active"';} ?>><a href="mandarinduck.php">Mandarin Duck</a></li>
