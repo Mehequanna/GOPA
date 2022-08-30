@@ -20,7 +20,7 @@ include 'navbar.php';
     <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-            <h2>Holllydale Nature Garden</h2>
+            <h2>Hollydale Nature Garden</h2>
             <br>
             <video width="620" controls>
               <source src="img/hollydale/introvideo.mp4" type="video/mp4">
