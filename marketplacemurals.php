@@ -20,7 +20,7 @@ include 'navbar.php';
     <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-            <h2>Sneak Peak: Rockwood Marketplace Murals</h2>
+            <h2>Rockwood Marketplace Murals</h2>
             <br>
             <img src="img/marketplace/fruit.jpg" alt="Rico standing in front of his fruit mural" class="center"/>
             <br>

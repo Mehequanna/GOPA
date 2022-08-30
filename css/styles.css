@@ -57,7 +57,9 @@ h3 {
 }
 
 .col-md-4 img,
-.body img {
+.body img,
+.col-md-4 video,
+.body video  {
   display: block;
   margin: 1% auto 2%;
   max-height: 60%;
