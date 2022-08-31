@@ -72,6 +72,13 @@
         </div>
 
         <div class="col-md-4 text-center">
+            <img src="img/hollydale/gardenarticle1.jpg" alt="Students and teacher look at plant in garden." />
+            <h2>Hollydale Nature Garden</h2>
+            <h3>by Hollydale Elementary School</h3>
+            <a href="hollydale.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
             <img src="img/badgesinbronze/badgesinbronze2.jpg" alt="Jeremy hold statue of boy drinking from firehose with firehouse helmet on." />
             <h2>Badges in Bronze</h2>
             <h3>by Jeremy Pelletier</h3>
