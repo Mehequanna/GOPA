@@ -72,6 +72,15 @@
         </div>
 
         <div class="col-md-4 text-center">
+            <img src="img/birdboxes/birdboxes5.jpg" alt="Electrical box showing two sides depicting the red-tailed hawk." />
+            <h2>Bird Boxes</h2>
+            <h3>by Madison Hughes</h3>
+            <!-- <h3>by Madison Hughes & Rico Alvarez</h3> -->
+            <br>
+            <a href="birdboxes.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
             <img src="img/hollydale/gardenarticle1.jpg" alt="Students and teacher look at plant in garden." />
             <h2>Hollydale Nature Garden</h2>
             <h3>by Hollydale Elementary School</h3>
