@@ -261,30 +261,13 @@ include 'navbar.php';
             <img src="img/ricoalvarez.jpg" alt="Ricardo Alvarez in front of hiw mural of fruits and vegetables." />
             <h2 class="text-center">Artist: Ricardo Alvarez</h2>
             <p>
-                Mr. Alvarez has experience in branding and logo work, clothing design,
-                print making, screen printing, sticker making, and murals.
+                Ricardo (Rico) Alvarez got his start as a graffiti artist, then expanded into branding and logo work, clothing design, print making, screen printing and murals. He has lived in many different cities, but he decided to put down roots and make Gresham his permanent home in 2012. 
             </p>
             <p>
-                He has traveled extensively and has lived in Central Mexico, the Portland
-                area and Seattle. Gresham has been home since 2012, longer than any
-                other city.
+                He was working full-time as a brewer when the pandemic hit in 2020, causing him to refocus more of his energy on art and explore more ways to use his talents. Having been a graffiti artist for decades, he was always interested in large-scale public art and its ability to reach many audiences. His first art project with Gresham Outdoor Public Art was the colorful murals inside the Rockwood Marketplace.
             </p>
             <p>
-                Mr. Alvarez was a brewer and part-time graphic artist until the brewery
-                where he worked closed in 2019. He had just started on a new career path
-                when Covid-19 struck in 2020, and his options became more limited. With a
-                sudden surplus of time and creative energy, he began to focus more on his
-                art and to explore different ways to use his talents. Having been a graffiti
-                artist for decades, he was always interested in public art and murals and
-                their ability to be public education tools.
-            </p>
-            <p>
-                He says his 8-year-old daughter has inspired him in a big way and started
-                him thinking about how to get her and other children more excited about
-                the world around them. When she has a question, finding an answer also
-                teaches him something new. Many exciting journeys begin with questions,
-                and Mr. Alvarez sees art as a great way to stimulate curiosity and even
-                more questions.
+                Rico says his 8-year-old daughter inspired him and started him thinking about how to get her and other children more excited about the world around them. He sees art as a great way to stimulate curiosity and a sense of wonder about nature. His “Birds on Boxes” project was designed to do just that.
             </p>
 
         </div>
