@@ -51,9 +51,6 @@
           <h4>Sandy Martin</h4>
           <p>Sandy is retired after owning and operating a popular book store for 25 years in Historic Downtown Gresham, and she is still involved in community projects that she was instrumental in starting. Having lived in Gresham for 41 years before moving to Boring, she was involved in the Gresham Downtown Boosters, Historic Downtown Trick or Treat Candy Giveaway and My Mom's A Winner drawing contest, which are all still going strong today. She also sent books overseas to the soldiers during the Gulf War and set up a library at the Federal Prison in Sheridan. Sandy is a huge supporter of the Gresham Historical Society and the Gresham Outdoor Public Arts projects.</p>
           <br>
-          <h4>Martin Stone</h4>
-          <p>A Real Estate Broker since 1997, Martin has served the Gresham community and surrounding areas in many ways. For twenty-seven years he worked in retail sales in the family business and was past President and Board Member of the Gresham Downtown Boosters and the Gresham Downtown Development Association. Currently he serves as a Board Member on the Gresham Historical Society and on the East Metro Association.</p>
-          <br>
           <h4>Kathy Toynbee</h4>
           <p>Kathy Toynbee has lived in Gresham for 36 years and has served the community as a volunteer in many ways, including as a seven-year member of the Mt. Hood Community College Foundation. Kathy’s love for art began while working for bronze sculptor, Rip Caswell. During her years with Caswell, Kathy managed Caswell’s public art commissions, from proposal to installation. Having met and developed relationships with many artists from the Pacific NW, Kathy’s appreciation for art of all mediums has flourished. She believes art is meant to be shared with viewers from all walks of life and that art can help build community spirit and strength.</p>
           <br>
