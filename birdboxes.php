@@ -40,6 +40,8 @@ include 'navbar.php';
             <br>
             <img src="img/birdboxes/birdboxes10.jpg" alt="Rico spray painting branch on electrical box." class="center"/>
             <br>
+            <img src="img/birdboxes/birdboxes11.jpg" alt="Rico looking at his work on an electrical box." class="center"/>
+            <br>
             <img src="img/birdboxes/birdboxes7.jpg" alt="Finished electrical box painted with a Robin." class="center"/>
             <br>
             <p>Robin, by Rico Ricardo Alvarez, located at the corner of 185th and Burnside.</p>
