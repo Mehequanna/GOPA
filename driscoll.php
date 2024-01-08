@@ -23,9 +23,9 @@
           <h2 class="text-center">Driscoll</h2>
           <br>
           <img src="img/driscoll.jpg" alt="Driscoll in downtown Gresham" class="center"/>
-          <p class="text-center">“Driscoll’s addition to the community comes as part of the Gresham Outdoor Public Art effort, chaired by Judy Han. Money to pay for his creation and installation was raised through personal donations and contributions from service clubs, including the Gresham Breakfast Lions Club. Lions Clubs have traditionally supported many vision and blindness-related initiatives.</p>
-          <p class="text-center">“‘Han described guide dogs as being part of “the fabric of the community.’</p>
-          <p class="text-center">“‘That’s what we see every day,’ she said.”</p>
+          <p class="text-center">“Driscoll's addition to the community comes as part of the Gresham Outdoor Public Art effort, chaired by Judy Han. Money to pay for his creation and installation was raised through personal donations and contributions from service clubs, including the Gresham Breakfast Lions Club. Lions Clubs have traditionally supported many vision and blindness-related initiatives.</p>
+          <p class="text-center">“'Han described guide dogs as being part of “the fabric of the community.'</p>
+          <p class="text-center">“'That's what we see every day,' she said.”</p>
 
           <p class="text-center">Read more at:<br>
           <a href="http://www.pamplinmedia.com/go/42-news/315440-194378-a-dogs-day" target="_blank">http://www.pamplinmedia.com/go/42-news/315440-194378-a-dogs-day</a></p>
