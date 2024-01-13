@@ -36,7 +36,7 @@
           <h2 class="text-center">Artist: Rip Caswell</h2>
           <img src="img/ripcaswell.jpg" alt="Rip Caswell Photo" class="center"/>
           <p class="text-center">“Accomplished sculptor, Rip Caswell, is popular with private and corporate collectors worldwide. He has created more than 200 sculptures of various subjects in contemporary and realistic styles.</p>
-          <p class="text-center">“An authority in wildlife art, Caswell’s collectibles are credited to his deep understanding of living creatures – human and animal – in their natural environment. His sculptures have a life and breath of their own.</p>
+          <p class="text-center">“An authority in wildlife art, Caswell's collectibles are credited to his deep understanding of living creatures - human and animal - in their natural environment. His sculptures have a life and breath of their own.</p>
           <p class="text-center">“Caswell often serves as a judge in competitions and presents at seminars. Many art galleries, publications and television broadcasts also have featured his works.”
           <br>
           Learn more at: <a href="http://www.caswellsculptures.com/" target="_blank">http://www.caswellsculptures.com/</a></p>

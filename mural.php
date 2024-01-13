@@ -53,7 +53,7 @@
             GOPA wants the residents of Gresham to help come up with who she is. They want submissions from the public telling her life story and name.
           </p>
           <p>
-            “Everyone is wondering who the woman in the window is,” said Judy Han, GOPA chairwoman and longtime owner of Sunny Han’s Wok & Grill. “We invite you to write her story.”
+            “Everyone is wondering who the woman in the window is,” said Judy Han, GOPA chairwoman and longtime owner of Sunny Han's Wok & Grill. “We invite you to write her story.”
           </p>
           <p>
             The committee also would like to hear any memories people have about the old drug store and soda fountain.

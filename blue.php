@@ -39,7 +39,7 @@
             She sculpts everything by hand, and tends to begin with the head and face of her sculpture. That allows her to shape the rest of the piece around it, guided by the personality and character she first envisioned.
           </p>
           <p>
-            “'When we pulled the tarp off the sculpture I remember seeing how surprised [Gresham Mayor Shane Bemis'] face was,' Han said. 'It is a special piece for the community.’”
+            “'When we pulled the tarp off the sculpture I remember seeing how surprised [Gresham Mayor Shane Bemis'] face was,' Han said. 'It is a special piece for the community.'”
           </p>
           <p>
             Read the original article by Christopher Keizur at: <br>
