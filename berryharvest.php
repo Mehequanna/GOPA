@@ -30,7 +30,7 @@
           </p>
           <img src="img/harvestmural/preppednight.jpg" alt="Prep work at night" class="center"/>
           <p>
-            “'Gresham has been hungry for more art,'' said Judy Han, president of Gresham Outdoor Public Art which commissioned the mural. 'Art is for everybody, it crosses all dividing lines and brings us together.'
+            “'Gresham has been hungry for more art,' said Judy Han, president of Gresham Outdoor Public Art which commissioned the mural. 'Art is for everybody, it crosses all dividing lines and brings us together.'
           </p>
           <img src="img/harvestmural/paintinggirl.jpg" alt="Don Gray painting the lady" class="center"/>
           <p>
