@@ -25,46 +25,46 @@ include 'navbar.php';
             <br>
 
             <img src="img/littleheroes/1-intheshop.jpg" alt="Statues standing in workshop" class="center"/>
-            Bronze statues standing in the workshop ready to be moved.<br><br>
+            <p>Little Heroes statues standing in the workshop ready to be moved.</p><br><br>
 
             <img src="img/littleheroes/2-storytime.jpg" alt="Firefighter reading storybook to room of children" class="center"/>
-            Storytime with the children.<br><br>
+            <p>Storytime with the children.</p><br><br>
 
             <img src="img/littleheroes/3-joantaggandfriends.jpg" alt="People sitting with Tagg and trainer" class="center"/>
-            Joan Albertson sitting with friends and Tagg.<br><br>
+            <p>Joan Albertson sitting with friends and Tagg.</p><br><br>
 
-            <img src="img/littleheroes/4-engine71.jpg" alt="Fire engine 71 parked outside building." class="center"/>Engine 71 ready for the unveiling.<br><br>
+            <img src="img/littleheroes/4-engine71.jpg" alt="Fire engine 71 parked outside building." class="center"/>
+            <p>Engine 71 ready for the unveiling.</p><br><br>
 
             <img src="img/littleheroes/5-unveiled.jpg" alt="Sheets being pulled of statues" class="center"/>
-            The unveiling!<br><br>
+            <p>The unveiling!</p><br><br>
 
             <img src="img/littleheroes/6-plaque.jpg" alt="Plaque with writing on it" class="center"/>
             <br><br>
 
             <img src="img/littleheroes/7-policechief.jpg" alt="Man speaking with microphone" class="center"/>
-            Police Chief Gullberg speaking to the crowd.<br><br>
+            <p>Police Chief Gullberg speaking to the crowd.</p><br><br>
 
             <img src="img/littleheroes/8-judypresenting.jpg" alt="Woman holding microphone and paper" class="center"/>
-            Judy Han, GOPA Board Chair, speaking before the unveiling.<br><br>
+            <p>Judy Han, GOPA Board Chair, speaking before the unveiling.</p><br><br>
 
             <img src="img/littleheroes/9-judyandchief.jpg" alt="Man and woman posing for picture together" class="center"/>
-            Judy Han and Fire Chief Lewis<br><br>
+            <p>Judy Han and Fire Chief Lewis</p><br><br>
 
             <img src="img/littleheroes/10-joanandsunny.jpg" alt="Man and woman watching children play" class="center"/>
-            Sunny Han and Joan Albertson watch the children explore the new statues.<br><br>
+            <p>Sunny Han and Joan Albertson watch the children explore the new statues.</p><br><br>
 
             <img src="img/littleheroes/11-judyandplanner.jpg" alt="Man and woman posing for photo together" class="center"/>
-            <!-- TODO: add name -->
-            Judy Han and City Planner<br><br>
+            <p>Judy Han and Jake Ostrow</p><br><br>
 
             <img src="img/littleheroes/12-2taggs.jpg" alt="Person with dog and statue" class="center"/>
-            Tagg, his trainer, and his statue.<br><br>
+            <p>Tagg, his trainer, and his statue.</p><br><br>
 
             <img src="img/littleheroes/13-bear.jpg" alt="2 men and a woman talking together" class="center"/>
-            Judy Han speaking with Jeremy Pelletier and his son, Bear.<br><br>
+            <p>Judy Han speaking with Jeremy Pelletier and his son, Bear.</p><br><br>
 
             <img src="img/littleheroes/14-sparky.jpg" alt="Person walking with mascot" class="center"/>
-            Sparky and friend.<br><br>
+            <p>Sparky and friend.</p><br><br>
         </div>
     </div><!-- row div close -->
 
