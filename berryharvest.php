@@ -30,15 +30,15 @@
           </p>
           <img src="img/harvestmural/preppednight.jpg" alt="Prep work at night" class="center"/>
           <p>
-            “‘Gresham has been hungry for more art,’ said Judy Han, president of Gresham Outdoor Public Art which commissioned the mural. ‘Art is for everybody, it crosses all dividing lines and brings us together.’
+            “'Gresham has been hungry for more art,'' said Judy Han, president of Gresham Outdoor Public Art which commissioned the mural. 'Art is for everybody, it crosses all dividing lines and brings us together.'
           </p>
           <img src="img/harvestmural/paintinggirl.jpg" alt="Don Gray painting the lady" class="center"/>
           <p>
-            “’We wanted Don to paint the second mural so the two would match each other in style,’ Han said. ‘It means so much to this community to have all of this beautiful art.’
+            “'We wanted Don to paint the second mural so the two would match each other in style,' Han said. 'It means so much to this community to have all of this beautiful art.'
           </p>
           <img src="img/harvestmural/workingtheday.jpg" alt="Don Gray painting the wagons" class="center"/>
           <p>
-            “Gray is a nationally renowned muralist and longtime Oregon resident who is now based in Vancouver, Wash. Contact the artist at <a href="mailto:dongraystudio@yahoo.com" target="_blank">dongraystudio@yahoo.com</a>.”
+            “Gray is a nationally renowned muralist and longtime Oregon resident who is now based in Vancouver, Wash. Contact the artist at:<a href="mailto:dongraystudio@yahoo.com" target="_blank">dongraystudio@yahoo.com</a>.”
           </p>
           <p>
             Read the original article by Christopher Keizur at: <br>

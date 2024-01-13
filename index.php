@@ -60,8 +60,9 @@
       <div class="row">
         <div class="col-md-4 text-center">
           <img src="img/whatsnew/greshamisjudy.jpg" alt="Photo of Judy on Gresham is... Show" />
+          <br>
           <h2>What's new <br>with GOPA?</h2>
-          <h3>Updated: 3/1/2022</h3>
+          <br>
           <br>
           <br>
           <br>
@@ -72,12 +73,27 @@
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/birdboxes/birdboxes5.jpg" alt="Electrical box showing two sides depicting the red-tailed hawk." />
-            <h2>Bird Boxes</h2>
-            <h3>by Madison Hughes
+            <img src="img/littleheroes/badgesinbronze2.jpg" alt="Jeremy holding statue of boy drinking from firehose with firehouse helmet on." />
+            <h2>Little Heroes</h2>
+            <h3>by Jeremy Pelletier</h3>
             <br>
-              & Rico Alvarez</h3>
-            <a href="birdboxes.php" class="btn btn-primary">Read More</a>
+            <a href="littleheroes.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
+            <img src="img/birdboxes/birdboxes10.jpg" alt="Man painting bird on electrical box" />
+            <h2>Bird Boxes</h2>
+            <h3>by Rico Alvarez</h3>
+            <br>
+            <a href="birdboxesbyrico.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
+            <img src="img/birdboxes/birdboxes3.jpg" alt="Man painting bird on electrical box" />
+            <h2>Bird Boxes</h2>
+            <h3>by Madison Hughes</h3>
+            <br>
+            <a href="birdboxesbymadison.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
@@ -85,14 +101,6 @@
             <h2>Hollydale Nature Garden</h2>
             <h3>by Hollydale Elementary School</h3>
             <a href="hollydale.php" class="btn btn-primary">Read More</a>
-        </div>
-
-        <div class="col-md-4 text-center">
-            <img src="img/badgesinbronze/badgesinbronze2.jpg" alt="Jeremy hold statue of boy drinking from firehose with firehouse helmet on." />
-            <h2>Badges in Bronze</h2>
-            <h3>by Jeremy Pelletier</h3>
-            <br>
-            <a href="badgesinbronze.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
