@@ -28,19 +28,19 @@ include 'navbar.php';
             <br>
             <img src="img/birdboxes/birdboxes7.jpg" alt="Finished electrical box painted with a Robin." class="center"/>
             <br>
-            <p>Robin, by Rico Ricardo Alvarez, located at the corner of 185th and Burnside.</p>
+            <p>Robin, located at the corner of 185th and Burnside.</p>
             <br>
             <img src="img/birdboxes/birdboxes6.jpg" alt="Finished electrical box painted with a Downy Woodpecker." class="center"/>
             <br>
-            <p>Downy Woodpecker, by Rico Ricardo Alvarez, located at the corner of Division and Main.</p>
+            <p>Downy Woodpecker, located at the corner of Division and Main.</p>
             <br>
             <img src="img/birdboxes/birdboxes8.jpg" alt="Finished electrical box painted with a Western Meadowlark," class="center"/>
             <br>
-            <p>Western Meadowlark, by Rico Ricardo Alvarez, located at the corner of Powell and Hood.</p>
+            <p>Western Meadowlark, located at the corner of Powell and Hood.</p>
             <br>
             <img src="img/birdboxes/birdboxes9.jpg" alt="Finished electrical box painted with a songbird." class="center"/>
             <br>
-            <p>By Rico Ricardo Alvarez, located at the corner of Springwater Trail and Towle.</p>
+            <p>Black-capped Chickadee, located at the corner of Springwater Trail and Towle.</p>
             <br>
         </div>
     </div><!-- row div close -->

@@ -31,12 +31,12 @@ include 'navbar.php';
             <img src="img/birdboxes/birdboxes4.jpg" alt="Finished electrical box with the Spotted Towhee showing two sides of the box. 
                 Left side: Spotted Towhee landing on branch. Right side: Spotted Towhee sitting on branch." class="center"/>
             <br>
-            <p>Spotted Towhee, by Madison Hughes, located at the corner of Division and Eastman Parkway.</p>
+            <p>Spotted Towhee, located at the corner of Division and Eastman Parkway.</p>
             <br>
             <img src="img/birdboxes/birdboxes5.jpg" alt="Finished electrical box with the Red-Tailed Hawk on two sides. 
                 Left side: Hawk sitting on branch. Right side: Hawk flying." class="center"/>
             <br>
-            <p>Red-Tailed Hawk, by Madison Hughes, located at the corner of Powell and Eastman Parkway.</p>
+            <p>Red-Tailed Hawk, located at the corner of Powell and Eastman Parkway.</p>
         </div>
     </div><!-- row div close -->
 
