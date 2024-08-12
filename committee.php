@@ -60,6 +60,9 @@
           <h4>Stephen Emery</h4>
           <p>Stephen and his two sons are members of the <em>Chickahominy Eastern Tribe</em>. He has worked with Gresham Outdoor Art for over six years doing a variety  of technical support  and building the website. He currently works as an Android and iOS developer focusing on augmented reality. Stephen and his wife Rachel have collected a number of art pieces around SE Asia and have started collecting Native art in the U.S. He is excited to bring Native and other cultural art to the Gresham area.</p>
           <br>
+          <h4>Joy Wilson</h4>
+          <p>Joy has lived in the Gresham area for the past 20 years where she and her husband raise their 4 kids. Her children enjoy creating art through paint, charcoal and photography.  When not working as an Accountant, Joy enjoys living an active lifestyle running and hiking, and being a member of Eastwind Running and Endurance club. Joy is excited about joining GOPA, participating in a non-profit that cares so much about bringing art to our community.</p>
+          <br>
           <h4>Mike Hill      1945 - 2016 In Memoriam</h4>
           <p>Mike was a watercolor artist extraordinaire. A member of the Gresham-Barlow School Board for nine years, Chairperson of Citizens for Schools, promoting school bond measures for over twenty years, past Board member and Artistic Advisor for the Gresham Art Walk from its inception, a jurist for the annual juried event, member of the National Watercolor Society, American Watercolor Society and signature member of the Northwest Watercolor Society. Mike's artwork is in many City Hall offices as well as a mural in the City Council Chambers.</p>
         </div><!-- body div close -->
