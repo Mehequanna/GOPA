@@ -59,16 +59,12 @@
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
-          <img src="img/whatsnew/greshamisjudy.jpg" alt="Photo of Judy on Gresham is... Show" />
+          <img src="img/whatsnew/emergingartists.jpg" alt="Photo of woman and man in their artist booths." />
           <br>
           <h2>What's new <br>with GOPA?</h2>
           <br>
           <br>
           <br>
-          <br>
-          <br>
-          <br>
-            <br>
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
 
