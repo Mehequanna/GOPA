@@ -20,6 +20,31 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
+          <h2>Emerging Artist Sponsorship</h2>
+          <br>
+          <p>Gresham Outdoor Public Art loves to support new and emerging artists. This year we awarded two sponsorships to two great artists at the Gresham Arts Festival.
+          </p>
+          <p>
+          <strong>Asia Estrella</strong>
+          <img src="img/whatsnew/asiaestrella.jpg" alt="Photo of woman standing in artist booth." />
+          "My name is Asia! I'm from Oregon. I've done art forever, but only started taking it seriously a few years ago. My favorite mediums are graphite pencils, watercolor, and acrylic & oil paint. I mostly do portraits, but I'd like to move out my comfort zone one day."
+          <br>
+          Learn more at: <a href="https://www.asiaestrella.com" target="_blank">asiaestrella.com</a>
+          </p>
+          <br>
+          <p>
+          <strong>Ben Anderson</strong>
+          <img src="img/whatsnew/benanderson.jpg" alt="Photo of man standing in artist booth." />
+          "I was born and raised in Portland. My wife Brittanie and I have lived in Gresham for a little more than 15 years. I've always gravitated toward abstract art - the freedom and ambiguity of it. My work is primarily abstract using acrylic paints, but I do often add watercolor, ink, or different dry media. The three kind of goalposts I use when I'm working are contrast, vibrancy, and layering."
+          <br>
+          Learn more at: <a href="https://www.instagram.com/benanderson_art/" target="_blank">instagram.com/benanderson_art/</a>
+          </p>
+        </div>
+      </div><!-- row div close -->
+
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <h2>Quote from Gresham Mayor, Travis Stovall</h2>
           <br>
           <p>“Art transcends cultural and ethnic limitations, it extends to everyone the opportunity to appreciate the creativity of another. Public art is the unencumbered sharing of the creative expression that can enhance the lives of everyone and is not bound by the restrictions of admission.”

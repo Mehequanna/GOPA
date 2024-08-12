@@ -59,21 +59,28 @@
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
-          <img src="img/whatsnew/greshamisjudy.jpg" alt="Photo of Judy on Gresham is... Show" />
+          <img src="img/whatsnew/emergingartists.jpg" alt="Photo of woman and man in their artist booths." />
           <br>
           <h2>What's new <br>with GOPA?</h2>
           <br>
           <br>
           <br>
-          <br>
-          <br>
-          <br>
-            <br>
           <a href="whatsnewwithgopa.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/littleheroes/badgesinbronze2.jpg" alt="Jeremy holding statue of boy drinking from firehose with firehouse helmet on." />
+            <img src="img/nativecarving/inmuseum2.jpg" alt="Carvings displayed in museum case." />
+            <h2>Native Carvings</h2>
+            <h3>by Nick Labonte</h3>
+            <br>
+            <br>
+            <br>
+            <br>
+            <a href="nativecarvings.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
+            <img src="img/littleheroes/badgesinbronze2.jpg" alt="Man holding statue of boy drinking from firehose with firehouse helmet on." />
             <h2>Little Heroes</h2>
             <h3>by Jeremy Pelletier</h3>
             <br>
