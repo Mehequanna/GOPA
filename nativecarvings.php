@@ -48,7 +48,7 @@ include 'navbar.php';
             <p>
                 “I create for my boy.  So that he can live the culture like I was not able to.”-Nick Labonte
             </p>
-
+            <p>Learn more at: <a href="https://bigriverart.org/nick-labonte/" target="_blank">bigriverart.org/nick-labonte/</p>
         </div>
     </div><!-- row div close -->
 </div><!-- container div close -->
