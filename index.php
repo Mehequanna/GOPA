@@ -7,7 +7,7 @@
     #event {
       <?php
         date_default_timezone_set('America/Los_Angeles');
-        if (new DateTime() > new DateTime("2019-08-01 16:00:00")) {
+        if (new DateTime() > new DateTime("2024-10-07 16:00:00")) {
             echo 'display:none';
         }
       ?>
@@ -33,7 +33,8 @@
         <div class="col-md-2"></div>
         <div class="col-md-8" id="event">
           <h2 class="text-center">Upcoming Event!</h2>
-          <img src="img/artsfestival2019.jpg" alt="Gresham Arts Festival July 19th & 20th, 2019" id="event-photo" />
+          <img src="img/indigenousartsfestival2024.jpg" alt="Indigenous Arts Festival October 5th and 6th, 12pm to 4pm" id="event-photo" />
+          <p class="text-center">Let us know you are joining on <a href="https://www.facebook.com/share/qPhXN82reLCuNkkY/" target="_blank">our event page</a></p>
           <br>
         </div>
         <div class="col-md-2"></div>
