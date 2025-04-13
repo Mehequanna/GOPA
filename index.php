@@ -70,6 +70,14 @@
         </div>
 
         <div class="col-md-4 text-center">
+            <img src="img/indigenousartsfestival/dancer-yellow.jpg" alt="Native dancer in regalia outside." />
+            <h2>Indigenous Arts Festival</h2>
+            <br>
+            <br>
+            <a href="indigenousartsfestival.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
             <img src="img/nativecarving/inmuseum2.jpg" alt="Carvings displayed in museum case." />
             <h2>Native Carvings</h2>
             <h3>by Nick Labonte</h3>
