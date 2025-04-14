@@ -52,6 +52,9 @@
           <h4>Joan Albertson</h4>
           <p>Joan is an active Gresham volunteer serving as a GPD Citizen Volunteer in Policing and a member of the Gresham Chamber of Commerce Government Affairs Committee. She was licensed by the Oregon Board of Accountancy as a Certified Public Accountant (now retired) in 1969 when there were less than 2000 women CPAs in the United States. After leaving public accounting, she was Controller for a business forms manufacturer for several years. Prior activities include the 2012 Gresham Charter Review Committee, Center for the Arts Foundation and serving as a local Campaign Treasurer.</p>
           <br>
+          <h4>David Baumann</h4>
+          <p>David is a private fine art collector and has been involved in the art industry through career and personal experiences for over thirty years. This experience has brought many long standing relationships with fine artists across the United States, and especially in the northwest region. He has been a Board Member of the Gresham Arts Commission, Mt. Hood Jazz Festival and the Gresham Historical Society as well as past President of the Troutdale Chamber of Commerce.</p>
+          <br>
           <h4>Rose Marie Noojin</h4>
           <p>Rose Marie was previously employed as the Manager of Sunny Han's Wok & Grill in Historic Downtown Gresham. She serves as Secretary for the Gresham Historical Society. Some of her past positions in the Gresham community: served as Secretary for Gresham Outdoor Public Art (GOPA), Secretary for Art Walk Etc., Secretary for the Downtown Gresham Boosters and Secretary for the Mt. Hood Jazz Festival.</p>
         </div><!-- body div close -->
