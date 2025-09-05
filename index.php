@@ -78,6 +78,16 @@
         </div>
 
         <div class="col-md-4 text-center">
+            <img src="img/clearcreek/muralleft.jpg" alt="Colorful mural on a school wall featuring students engaged in creative activities such as playing the cello, painting, reading, and playing soccer. The background is filled with vibrant patterns, greenery, and geometric shapes. Text on the mural reads: They didnt know we were seeds. Painted by the class of 2029 Sarah Farahat Mrs King Jamaali Roberts Thank you GOPA. The scene feels joyful, collaborative, and energetic, celebrating diversity and learning in a lively school environment." />
+            <h2>They didn't know we were seeds</h2>
+            <h3>by Clear Creek Middle School class of 2029,
+                <br>et al.
+            </h3>
+            <a href="indigenousartsfestival.php" class="btn btn-primary">Read More</a>
+        </div>
+
+
+        <div class="col-md-4 text-center">
             <img src="img/nativecarving/inmuseum2.jpg" alt="Carvings displayed in museum case." />
             <h2>Native Carvings</h2>
             <h3>by Nick Labonte</h3>
