@@ -7,7 +7,7 @@
     #event {
       <?php
         date_default_timezone_set('America/Los_Angeles');
-        if (new DateTime() > new DateTime("2024-10-07 16:00:00")) {
+        if (new DateTime() > new DateTime("2025-10-06 16:00:00")) {
             echo 'display:none';
         }
       ?>
@@ -33,8 +33,8 @@
         <div class="col-md-2"></div>
         <div class="col-md-8" id="event">
           <h2 class="text-center">Upcoming Event!</h2>
-          <img src="img/indigenousartsfestival2024.jpg" alt="Indigenous Arts Festival October 5th and 6th, 12pm to 4pm" id="event-photo" />
-          <p class="text-center">Let us know you are joining on <a href="https://www.facebook.com/share/qPhXN82reLCuNkkY/" target="_blank">our event page</a></p>
+          <img src="img/indigenousartsfestival2025.jpg" alt="Indigenous Arts Festival October 4th and 5th, 10am to 4pm" id="event-photo" />
+          <p class="text-center">Let us know you are joining on <a href="https://www.facebook.com/share/17tfJgSAEi/" target="_blank">our event page</a></p>
           <br>
         </div>
         <div class="col-md-2"></div>
@@ -76,6 +76,16 @@
             <br>
             <a href="indigenousartsfestival.php" class="btn btn-primary">Read More</a>
         </div>
+
+        <div class="col-md-4 text-center">
+            <img src="img/clearcreek/muralleft.jpg" alt="Colorful mural on a school wall featuring students engaged in creative activities such as playing the cello, painting, reading, and playing soccer. The background is filled with vibrant patterns, greenery, and geometric shapes. Text on the mural reads: They didnt know we were seeds. Painted by the class of 2029 Sarah Farahat Mrs King Jamaali Roberts Thank you GOPA. The scene feels joyful, collaborative, and energetic, celebrating diversity and learning in a lively school environment." />
+            <h2>They didn't know we were seeds</h2>
+            <h3>by Clear Creek Middle School class of 2029,
+                <br>et al.
+            </h3>
+            <a href="clearcreekmural.php" class="btn btn-primary">Read More</a>
+        </div>
+
 
         <div class="col-md-4 text-center">
             <img src="img/nativecarving/inmuseum2.jpg" alt="Carvings displayed in museum case." />
