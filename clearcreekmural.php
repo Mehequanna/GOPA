@@ -27,10 +27,10 @@ include 'navbar.php';
             </h3>
             <br>
 
-            <img src="img/clearcreek/muralright.jpg" alt="Colorful mural on a school wall featuring students engaged in creative activities such as playing the cello, painting, reading, and playing soccer. The background is filled with vibrant patterns, greenery, and geometric shapes. Text on the mural reads: They didnt know we were seeds. Painted by the class of 2029 Sarah Farahat Mrs King Jamaali Roberts Thank you GOPA. The scene feels joyful, collaborative, and energetic, celebrating diversity and learning in a lively school environment." class="center"/>
+            <img src="img/clearcreek/muralleft.jpg" alt="Colorful mural on a school wall featuring students engaged in creative activities such as playing the cello, painting, reading, and playing soccer. The background is filled with vibrant patterns, greenery, and geometric shapes. Text on the mural reads: They didnt know we were seeds. Painted by the class of 2029 Sarah Farahat Mrs King Jamaali Roberts Thank you GOPA. The scene feels joyful, collaborative, and energetic, celebrating diversity and learning in a lively school environment." class="center"/>
             <br><br>
 
-            <img src="img/clearcreek/muralleft.jpg" alt="Colorful mural on a school wall featuring students engaged in creative activities such as playing the cello, painting, reading, and playing soccer. The background is filled with vibrant patterns, greenery, and geometric shapes. Text on the mural reads: They didnt know we were seeds. Painted by the class of 2029 Sarah Farahat Mrs King Jamaali Roberts Thank you GOPA. The scene feels joyful, collaborative, and energetic, celebrating diversity and learning in a lively school environment." class="center"/>
+            <img src="img/clearcreek/muralright.jpg" alt="Colorful mural on a school wall featuring students engaged in creative activities such as playing the cello, painting, reading, and playing soccer. The background is filled with vibrant patterns, greenery, and geometric shapes. Text on the mural reads: They didnt know we were seeds. Painted by the class of 2029 Sarah Farahat Mrs King Jamaali Roberts Thank you GOPA. The scene feels joyful, collaborative, and energetic, celebrating diversity and learning in a lively school environment." class="center"/>
             <br><br>
         </div>
     </div><!-- row div close -->
@@ -38,8 +38,8 @@ include 'navbar.php';
     <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-            <h2>Clear Creek eighth graders paint mural celebrating lessons from elders
-                <br>by Christopher Keizur for Gresham Outlook</h2>
+            <h2>Clear Creek eighth graders paint mural celebrating lessons from elders</h2>
+            <h3>by Christopher Keizur for Gresham Outlook</h3>
             <br>
 
             <img src="img/clearcreek/mural1.webp" alt="Mural showing a young boy leaning over a car and another child in red pants kicking a soccer ball, surrounded by colorful dots and greenery. The scene is lively and energetic, set against a school wall with a bright and playful atmosphere." class="center"/>
