@@ -23,7 +23,7 @@
           <h2>Board Members</h2>
           <br>
           <h4>Judy Han - Chair</h4>
-          <p>Along with her husband, Sunny, Judy has owned and successfully operated Downtown Gresham's popular Sunny Han's Wok & Grill for twenty-nine years. She has also served as President of the Downtown Gresham Boosters and nineteen years ago founded the annual Gresham Art Walk, which over the years has seen a significant increase in highly visible artist participation and visitor attendance. Judy's contribution to the Gresham art scene has been considerable.</p>
+          <p>Along with her husband, Sunny, Judy has owned and successfully operated Downtown Gresham's popular Sunny Han's Wok & Grill for 31 years. She has also served as President of the Downtown Gresham Boosters and nineteen years ago founded the annual Gresham Art Walk, which over the years has seen a significant increase in highly visible artist participation and visitor attendance. Judy's contribution to the Gresham art scene has been considerable.</p>
           <br>
           <h4>Rachel Emery - Treasurer</h4>
           <p>Rachel was born and raised in the Portland/Gresham area. Growing up she enjoyed learning about and doing various art forms from around the world. Rachel also volunteered for a few non-profits. She worked as a manager and served as a Board Member for <em>Chase Me Again</em>, a local nonprofit thrift store. She also designed brochures and flyers for GOPA in their early days. Currently she is a stay at home mom with two beautiful boys.</p>
@@ -56,7 +56,7 @@
           <p>David is a private fine art collector and has been involved in the art industry through career and personal experiences for over thirty years. This experience has brought many long standing relationships with fine artists across the United States, and especially in the northwest region. He has been a Board Member of the Gresham Arts Commission, Mt. Hood Jazz Festival and the Gresham Historical Society as well as past President of the Troutdale Chamber of Commerce.</p>
           <br>
           <h4>Rose Marie Noojin</h4>
-          <p>Rose Marie was previously employed as the Manager of Sunny Han's Wok & Grill in Historic Downtown Gresham. She serves as Secretary for the Gresham Historical Society. Some of her past positions in the Gresham community: served as Secretary for Gresham Outdoor Public Art (GOPA), Secretary for Art Walk Etc., Secretary for the Downtown Gresham Boosters and Secretary for the Mt. Hood Jazz Festival.</p>
+          <p>Rose Marie was previously employed as the Manager of Sunny Han's Wok & Grill in Historic Downtown Gresham. She served as Secretary for the Gresham Historical Society. Some of her past positions in the Gresham community: served as Secretary for Gresham Outdoor Public Art (GOPA), Secretary for Art Walk Etc., Secretary for the Downtown Gresham Boosters and Secretary for the Mt. Hood Jazz Festival.</p>
         </div><!-- body div close -->
       </div><!-- row div close -->
       <div class="row">
