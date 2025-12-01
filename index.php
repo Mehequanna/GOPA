@@ -70,73 +70,81 @@
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/indigenousartsfestival/dancer-yellow.jpg" alt="Native dancer in regalia outside." />
-            <h2>Indigenous Arts Festival</h2>
-            <br>
-            <br>
-            <a href="indigenousartsfestival.php" class="btn btn-primary">Read More</a>
+          <img src="img/nadaka/nadakapark.jpg" alt="Nadaka Nature Park Postcard" />
+          <h2>Nadaka Nature Park</h2>
+          <h3>Slider the Otter &amp;
+          <br>Seeker the Raven
+          </h3>
+          <a href="nadakanaturepark.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/clearcreek/muralleft.jpg" alt="Colorful mural on a school wall featuring students engaged in creative activities such as playing the cello, painting, reading, and playing soccer. The background is filled with vibrant patterns, greenery, and geometric shapes. Text on the mural reads: They didnt know we were seeds. Painted by the class of 2029 Sarah Farahat Mrs King Jamaali Roberts Thank you GOPA. The scene feels joyful, collaborative, and energetic, celebrating diversity and learning in a lively school environment." />
-            <h2>They didn't know we were seeds</h2>
-            <h3>by Clear Creek Middle School class of 2029,
-                <br>et al.
-            </h3>
-            <a href="clearcreekmural.php" class="btn btn-primary">Read More</a>
-        </div>
-
-
-        <div class="col-md-4 text-center">
-            <img src="img/nativecarving/inmuseum2.jpg" alt="Carvings displayed in museum case." />
-            <h2>Native Carvings</h2>
-            <h3>by Nick Labonte</h3>
-            <br>
-            <br>
-            <br>
-            <br>
-            <a href="nativecarvings.php" class="btn btn-primary">Read More</a>
+          <img src="img/clearcreek/muralleft.jpg" alt="Colorful mural on a school wall featuring students engaged in creative activities such as playing the cello, painting, reading, and playing soccer. The background is filled with vibrant patterns, greenery, and geometric shapes. Text on the mural reads: They didnt know we were seeds. Painted by the class of 2029 Sarah Farahat Mrs King Jamaali Roberts Thank you GOPA. The scene feels joyful, collaborative, and energetic, celebrating diversity and learning in a lively school environment." />
+          <h2>They didn't know we were seeds</h2>
+          <h3>by Clear Creek Middle School class of 2029,
+              <br>et al.
+          </h3>
+          <a href="clearcreekmural.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/littleheroes/badgesinbronze2.jpg" alt="Man holding statue of boy drinking from firehose with firehouse helmet on." />
-            <h2>Little Heroes</h2>
-            <h3>by Jeremy Pelletier</h3>
-            <br>
-            <a href="littleheroes.php" class="btn btn-primary">Read More</a>
+          <img src="img/indigenousartsfestival/dancer-yellow.jpg" alt="Native dancer in regalia outside." />
+          <h2>Indigenous Arts Festival</h2>
+          <br>
+          <br>
+          <a href="indigenousartsfestival.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/birdboxes/birdboxes10.jpg" alt="Man painting bird on electrical box" />
-            <h2>Bird Boxes</h2>
-            <h3>by Rico Alvarez</h3>
-            <br>
-            <a href="birdboxesbyrico.php" class="btn btn-primary">Read More</a>
+          <img src="img/nativecarving/inmuseum2.jpg" alt="Carvings displayed in museum case." />
+          <h2>Native Carvings</h2>
+          <h3>by Nick Labonte</h3>
+          <br>
+          <br>
+          <br>
+          <br>
+          <a href="nativecarvings.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/birdboxes/birdboxes3.jpg" alt="Man painting bird on electrical box" />
-            <h2>Bird Boxes</h2>
-            <h3>by Madison Hughes</h3>
-            <br>
-            <a href="birdboxesbymadison.php" class="btn btn-primary">Read More</a>
+          <img src="img/littleheroes/badgesinbronze2.jpg" alt="Man holding statue of boy drinking from firehose with firehouse helmet on." />
+          <h2>Little Heroes</h2>
+          <h3>by Jeremy Pelletier</h3>
+          <br>
+          <a href="littleheroes.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/hollydale/gardenarticle1.jpg" alt="Students and teacher look at plant in garden." />
-            <h2>Hollydale Nature Garden</h2>
-            <h3>by Hollydale Elementary School</h3>
-            <a href="hollydale.php" class="btn btn-primary">Read More</a>
+          <img src="img/birdboxes/birdboxes10.jpg" alt="Man painting bird on electrical box" />
+          <h2>Bird Boxes</h2>
+          <h3>by Rico Alvarez</h3>
+          <br>
+          <a href="birdboxesbyrico.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
-            <img src="img/marketplace/fruit.jpg" alt="Rico Alvarez in front of his fruit mural hanging in Rockwood Marketplace." />
-            <h2>Rockwood Marketplace Murals</h2>
-            <h3>by Rico Alvarez</h3>
-            <br>
-            <br>
-            <br>
-            <a href="marketplacemurals.php" class="btn btn-primary">Read More</a>
+          <img src="img/birdboxes/birdboxes3.jpg" alt="Man painting bird on electrical box" />
+          <h2>Bird Boxes</h2>
+          <h3>by Madison Hughes</h3>
+          <br>
+          <a href="birdboxesbymadison.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
+          <img src="img/hollydale/gardenarticle1.jpg" alt="Students and teacher look at plant in garden." />
+          <h2>Hollydale Nature Garden</h2>
+          <h3>by Hollydale Elementary School</h3>
+          <a href="hollydale.php" class="btn btn-primary">Read More</a>
+        </div>
+
+        <div class="col-md-4 text-center">
+          <img src="img/marketplace/fruit.jpg" alt="Rico Alvarez in front of his fruit mural hanging in Rockwood Marketplace." />
+          <h2>Rockwood Marketplace Murals</h2>
+          <h3>by Rico Alvarez</h3>
+          <br>
+          <br>
+          <br>
+          <a href="marketplacemurals.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">
@@ -238,15 +246,6 @@
           <br>
           <br>
           <a href="berryharvest.php" class="btn btn-primary">Read More</a>
-        </div>
-
-        <div class="col-md-4 text-center">
-          <img src="img/nadaka/nadakapark.jpg" alt="Nadaka Nature Park Postcard" />
-          <h2>Nadaka Nature Park</h2>
-          <h3>Slider the Otter &amp;
-          <br>Seeker the Raven
-          </h3>
-          <a href="nadakanaturepark.php" class="btn btn-primary">Read More</a>
         </div>
 
         <div class="col-md-4 text-center">

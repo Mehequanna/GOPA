@@ -20,6 +20,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects <span class="caret"></span></a>
           <ul class="dropdown-menu">
+            <li <?php if($current == 'nadakanaturepark') {echo 'class="active"';} ?>><a href="nadakanaturepark.php">Nadaka Nature Park</a></li>
             <li <?php if($current == 'clearcreekmural') {echo 'class="active"';} ?>><a href="clearcreekmural.php">Clear Creek Mural</a></li>
             <li <?php if($current == 'indigenousartsfestival') {echo 'class="active"';} ?>><a href="indigenousartsfestival.php">Indegenous Arts Festival</a></li>
             <li <?php if($current == 'nativecarvings') {echo 'class="active"';} ?>><a href="nativecarvings.php">Native Carvings</a></li>
@@ -38,7 +39,6 @@
             <li <?php if($current == 'bikerack') {echo 'class="active"';} ?>><a href="bikerack.php">Vintage Style Bike Racks</a></li>
             <li <?php if($current == 'blue') {echo 'class="active"';} ?>><a href="blue.php">Blue</a></li>
             <li <?php if($current == 'berryharvest') {echo 'class="active"';} ?>><a href="berryharvest.php">Berry Harvest Mural</a></li>
-            <li <?php if($current == 'nadakanaturepark') {echo 'class="active"';} ?>><a href="nadakanaturepark.php">Nadaka Nature Park</a></li>
             <li <?php if($current == 'driscoll') {echo 'class="active"';} ?>><a href="driscoll.php">Driscoll</a></li>
             <li <?php if($current == 'mural') {echo 'class="active"';} ?>><a href="mural.php">Main Street Mural</a></li>
             <li <?php if($current == 'crash') {echo 'class="active"';} ?>><a href="crash.php">Crash</a></li>
