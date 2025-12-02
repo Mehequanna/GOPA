@@ -23,7 +23,7 @@
           <h2>Board Members</h2>
           <br>
           <h4>Judy Han - Chair</h4>
-          <p>Along with her husband, Sunny, Judy has owned and successfully operated Downtown Gresham's popular Sunny Han's Wok & Grill for 31 years. She has also served as President of the Downtown Gresham Boosters and nineteen years ago founded the annual Gresham Art Walk, which over the years has seen a significant increase in highly visible artist participation and visitor attendance. Judy's contribution to the Gresham art scene has been considerable.</p>
+          <p>Along with her husband, Sunny, Judy had owned and successfully operated Downtown Gresham's popular Sunny Han's Wok & Grill for 31 years. She has also served as President of the Downtown Gresham Boosters and nineteen years ago founded the annual Gresham Art Walk, which over the years has seen a significant increase in highly visible artist participation and visitor attendance. Judy's contribution to the Gresham art scene has been considerable.</p>
           <br>
           <h4>Joy Wilson - Treasurer</h4>
           <p>Joy has lived in the Gresham area for the past 20 years where she and her husband raise their 4 kids. Her children enjoy creating art through paint, charcoal and photography.  When not working as an Accountant, Joy enjoys living an active lifestyle running and hiking, and being a member of Eastwind Running and Endurance club. Joy is excited about joining GOPA, participating in a non-profit that cares so much about bringing art to our community.</p>
