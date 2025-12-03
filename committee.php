@@ -61,8 +61,8 @@
         <div class="col-lg-10 body">
           <h3>In Memoriam</h3>
           <br>
-          <h4>Sandy Martin</h4>
-          <p>Sandy is retired after owning and operating a popular book store for 25 years in Historic Downtown Gresham, and she is still involved in community projects that she was instrumental in starting. Having lived in Gresham for 41 years before moving to Boring, she was involved in the Gresham Downtown Boosters, Historic Downtown Trick or Treat Candy Giveaway and My Mom's A Winner drawing contest, which are all still going strong today. She also sent books overseas to the soldiers during the Gulf War and set up a library at the Federal Prison in Sheridan. Sandy is a huge supporter of the Gresham Historical Society and the Gresham Outdoor Public Arts projects.</p>
+          <h4>Sandy Martin - 2024</h4>
+          <p>Sandy lived in Gresham for 41 years. She owned and operated Dakota Books for 25 years in Historic Downtown Gresham. Sandy was instrumental in creating and very involved in many community projects. These projects included Gresham Downtown Boosters, Historic Downtown Trick or Treat Candy Giveaway, and My Mom's A Winner drawing contest. These are all still going strong today! She also sent books overseas to soldiers during the Gulf War and set up a library at the Federal Prison in Sheridan. Sandy was a huge supporter of the Gresham Historical Society and Gresham Outdoor Public Arts' projects.</p>
         </div><!-- body div close -->
       </div><!-- row div close -->
     </div><!-- container div close -->
