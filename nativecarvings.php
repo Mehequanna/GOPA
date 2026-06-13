@@ -20,12 +20,13 @@ include 'navbar.php';
     <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-            <h2>Native Carvings by Nick Labonte</h2>
+            <h2>Power Figure and Mirror Carving</h2>
+            <h3>by Nick Labonte</h3>
             <br>
             <img src="img/nativecarving/inmuseum2.jpg" alt="Carvings displayed in museum." class="center"/>
             <br>
             <img src="img/nativecarving/inmuseum.jpg" alt="Carvings displayed in museum." class="center"/>
-            <p>Carvings being displayed at Gresham Historical Society.</p>
+            <p>The carvings are graciously being displayed at the Gresham History Museum. Look above the office doors to see the Power Figure.</p>
             <br>
             <img src="img/nativecarving/joancarving.jpg" alt="Seated woman holding Native carving." class="center"/>
             <br>

@@ -97,9 +97,8 @@
 
         <div class="col-md-4 text-center">
           <img src="img/nativecarving/inmuseum2.jpg" alt="Carvings displayed in museum case." />
-          <h2>Native Carvings</h2>
+          <h2>Power Figure and Mirror Carving</h2>
           <h3>by Nick Labonte</h3>
-          <br>
           <br>
           <br>
           <br>
