@@ -23,7 +23,7 @@
             <li <?php if($current == 'nadakanaturepark') {echo 'class="active"';} ?>><a href="nadakanaturepark.php">Nadaka Nature Park</a></li>
             <li <?php if($current == 'clearcreekmural') {echo 'class="active"';} ?>><a href="clearcreekmural.php">Clear Creek Mural</a></li>
             <li <?php if($current == 'indigenousartsfestival') {echo 'class="active"';} ?>><a href="indigenousartsfestival.php">Indegenous Arts Festival</a></li>
-            <li <?php if($current == 'nativecarvings') {echo 'class="active"';} ?>><a href="nativecarvings.php">Native Carvings</a></li>
+            <li <?php if($current == 'nativecarvings') {echo 'class="active"';} ?>><a href="nativecarvings.php">Power Figure and Mirror Carving</a></li>
             <li <?php if($current == 'littleheroes') {echo 'class="active"';} ?>><a href="littleheroes.php">Little Heroes</a></li>
             <li <?php if($current == 'birdboxesbyrico') {echo 'class="active"';} ?>><a href="birdboxesbyrico.php">Bird Boxes by Rico</a></li>
             <li <?php if($current == 'birdboxesbymadison') {echo 'class="active"';} ?>><a href="birdboxesbymadison.php">Bird Boxes by Madison</a></li>
