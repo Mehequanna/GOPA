@@ -60,9 +60,11 @@
       <!-- Projects Section-->
       <div class="row">
         <div class="col-md-4 text-center">
-          <img src="img/whatsnew/emergingartists.jpg" alt="Photo of woman and man in their artist booths." />
+          <img src="img/joanaward/joannadaka.webp" alt="Woman standing with two men unveiling statue." />
           <br>
           <h2>What's new <br>with GOPA?</h2>
+          <br>
+          <br>
           <br>
           <br>
           <br>
