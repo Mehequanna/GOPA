@@ -20,6 +20,46 @@
       <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
+          <h2>Joan Albertson named 2026 Gresham Community Member of the Year</h2>
+          <h3>By Christopher Keizur</h3>
+          Published Thursday, June 18, 2026<br><br>
+
+          <img src="img/joanaward/joannadaka.webp" alt="Woman standing with two men unveiling statue." />
+          Joan Albertson was named the 2026 Gresham Community Member of the Year.<br><br>
+
+          <img src="img/joanaward/judyandmayor.webp" alt="Woman and man standing on a stage." />
+          Judy Han accepted an award on behalf of Joan Albertson.<br><br>
+
+          <img src="img/joanaward/joanunveiling.webp" alt="Three women and fireman sitting together." />
+          Joan Albertson during the unveiling of 'Slider' the bronze otter statue at Nadaka Nature Park.<br><br>
+
+          <p>
+            A prominent community volunteer, philanthropist, and powerful advocate for the arts was celebrated by her peers during a city event. Joan Albertson was awarded Community Member of the Year during the 2026 Gresham State of the City.
+          </p>
+
+          <p>
+            “Our city is blessed to have people like Joan making this a vibrant place we all love,” said Mayor Travis Stovall. “If you don't know her, you are missing out.”
+          </p>
+
+          <p>
+            For decades, Albertson has been an advocate for public safety, parks, and a sponsor of many of the city's bronze sculptures. She was a Citizen Volunteer in Policing, served on Gresham's Charter Review Committee, and was heavily involved with the Gresham Area Chamber of Commerce. Albertson was also a big supporter of the Rockwood Boys and Girls Club. She funded and sponsored many public art pieces, most notably “Slider,” the bronze otter in Nadaka Nature Park.
+          </p>
+
+          <p>
+            Albertson was unable to attend the State of the City because of health woes. Accepting the honor in her place was longtime friend and fellow art advocate Judy Han.
+          </p>
+
+          <p>
+            Han read a letter penned by Albertson. “I am just following the example folks set before me,” Albertson wrote. “Gresham has a way of endearing itself to people… I like being the 'Good Witch' the 'Fairy Godmother', sprinkling dust around the city and making people happy. To see the joy of families and community — that is enough for me.”
+          </p>
+          
+          Read the original article on <a href="https://theoutlookonline.com/2026/06/18/joan-albertson-named-2026-gresham-community-member-of-the-year/" target="_blank">Gresham Outlook</a>
+        </div>
+      </div><!-- row div close -->
+
+      <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
           <h2>Emerging Artist Sponsorship</h2>
           <br>
           <p>Gresham Outdoor Public Art loves to support new and emerging artists. This year we awarded two sponsorships to two great artists at the Gresham Arts Festival.

@@ -25,9 +25,9 @@
           <p>The Gresham Outdoor Public Art Board is currently working on several projects. As you hear about a project you can participate with us by donating money to the fund.<br><br>
           Please mail checks to:<br>
           Gresham Outdoor Public Art<br>
-          PO Box 2384<br>
-          Gresham, OR  97030<br>
-          *We will send you a receipt for tax purposes.<br>
+          2870 NE Hogan Dr, Ste E 440<br>
+          Gresham, OR  97030-3173<br>
+          *We will send you a receipt for tax purposes.<br>
           Our Federal Tax ID # is 59-3781305</p>
 
           <p>Click here to donate online!</p>
