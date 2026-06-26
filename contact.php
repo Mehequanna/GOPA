@@ -29,8 +29,8 @@
 
           <p class="text-center"><strong>Mail:</strong><br>
           Gresham Outdoor Public Art<br>
-          PO Box 2384<br>
-          Gresham, OR  97030</p>
+          2870 NE Hogan Dr, Ste E 440<br>
+          Gresham, OR  97030-3173</p>
         </div>
       </div><!-- row div close -->
     </div><!-- container div close -->
