@@ -58,6 +58,18 @@
       </div><!-- row div close -->
 
       <div class="row">
+          <div class="col-lg-1"></div>
+          <div class="col-lg-10 body">
+              <h2>Indigenous Arts Festival 2025 Performance</h2>
+              <br>
+
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/sfh9Tb83nFA?si=eFNKk8AvLHFAMNO2" title="Indigenous Arts Festival 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+              <p>Make full screen for best viewing results.</p>
+          </div>
+      </div><!-- row div close -->
+
+      <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
           <h2>Emerging Artist Sponsorship</h2>
