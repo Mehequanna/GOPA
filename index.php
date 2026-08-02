@@ -7,7 +7,7 @@
     #event {
       <?php
         date_default_timezone_set('America/Los_Angeles');
-        if (new DateTime() > new DateTime("2025-10-06 16:00:00")) {
+        if (new DateTime() > new DateTime("2026-10-06 16:00:00")) {
             echo 'display:none';
         }
       ?>
@@ -33,8 +33,9 @@
         <div class="col-md-2"></div>
         <div class="col-md-8" id="event">
           <h2 class="text-center">Upcoming Event!</h2>
-          <img src="img/indigenousartsfestival2025.jpg" alt="Indigenous Arts Festival October 4th and 5th, 10am to 4pm" id="event-photo" />
-          <p class="text-center">Let us know you are joining on <a href="https://www.facebook.com/share/17tfJgSAEi/" target="_blank">our event page</a></p>
+          <img src="img/indigenousartsfestival2026.jpg" alt="Indigenous Arts Festival October 2nd to 4th, 10am to 4pm" id="event-photo" />
+          <p class="text-center">Let us know you are joining on <a href="https://www.facebook.com/share/1Ez5cWL3uG/" target="_blank">our event page</a></p>
+          <p class="text-center">Join for our <a href="https://www.facebook.com/share/1DCDqwBr5T/" target="_blank">speaker event</a> as well.</p>
           <br>
         </div>
         <div class="col-md-2"></div>
@@ -47,7 +48,7 @@
         <div class="col-md-10" id="brochure">
           <h2 class="text-center">Find us around Gresham!</h2>
           <a href="brochure.php">
-            <img src="img/brochure/inside-brochure-small.jpg" alt="Map of art locations around Gresham" id="map-photo" />
+            <img src="img/brochure/2026-2.jpg" alt="Map of art locations around Gresham" id="map-photo" />
           </a>
           <br>
           <p class="text-center">To see the full brochure, <a href="brochure.php">click here</a></p>
