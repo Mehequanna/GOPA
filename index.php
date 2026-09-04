@@ -34,6 +34,7 @@
         <div class="col-md-8" id="event">
           <h2 class="text-center">Upcoming Event!</h2>
           <img src="img/indigenousartsfestival2026.jpg" alt="Indigenous Arts Festival October 2nd to 4th, 10am to 4pm" id="event-photo" />
+          <img src="img/indigenousartsfestival2026espanol.jpg" alt="Festival de artes, October 2nd to 4th, 10am to 4pm" id="event-photo" />
           <p class="text-center">Let us know you are joining on <a href="https://www.facebook.com/share/1Ez5cWL3uG/" target="_blank">our event page</a></p>
           <p class="text-center">Join for our <a href="https://www.facebook.com/share/1DCDqwBr5T/" target="_blank">speaker event</a> as well.</p>
           <br>
