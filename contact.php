@@ -28,7 +28,8 @@
           <a href="mailto:artwalketc@comcast.net" target="_blank">artwalketc@comcast.net</a></p>
 
           <p class="text-center"><strong>Mail:</strong><br>
-          Gresham Outdoor Public Art<br>
+          Art Walk, etc,<br>
+          dba Gresham Outdoor Public Art<br>
           2870 NE Hogan Dr, Ste E 440<br>
           Gresham, OR  97030-3173</p>
         </div>
