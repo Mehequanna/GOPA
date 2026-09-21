@@ -39,6 +39,15 @@
           <br>
           <h4>Stephen Emery</h4>
           <p>Stephen and his two sons are members of the <em>Chickahominy Eastern Tribe</em>. He has worked with Gresham Outdoor Art for over six years doing a variety  of technical support  and building the website. He currently works as an Android and iOS developer focusing on augmented reality. Stephen and his wife Rachel have collected a number of art pieces around SE Asia and have started collecting Native art in the U.S. He is excited to bring Native and other cultural art to the Gresham area.</p>
+          <br>
+          <h4>Natalie Mitchell</h4>
+          <p>Natalie Mitchell has called the Gresham/Portland area home since 1983 and has spent much of her life invested in the strength and well-being of her local community. A graduate of Centennial High School, Mt. Hood Community College, Concordia University, and Portland State University, where she earned her Master of Social Work, Natalie is a community-based social worker who has long been involved in programs and efforts supporting families and individuals throughout Gresham and the greater Portland area.</p>
+
+          <p>Natalie is also a self-taught beadworker and the artist behind Watseka Journeys, where she creates handmade Indigenous beadwork and shares the history, meaning, and traditions connected to the art. Her work is rooted in community, connection, and cultural reconnection.</p>
+
+          <p>A mother of six and grandmother of two, Natalie brings both professional experience and lived experience to the work she does. She is passionate about supporting the local urban Native community and creating opportunities for people to reconnect with culture, community, and financial empowerment.</p>
+
+          <p>Outside of work and beadwork, Natalie loves gardening, visiting farmers markets, spending time at her local library, supporting small and local businesses, and staying connected to the people and communities that have made Gresham home for more than four decades.</p>
         </div> <!-- end of body -->
       </div><!-- row div close -->
       <div class="row">
