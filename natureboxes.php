@@ -21,7 +21,33 @@ include 'navbar.php';
     <div class="row">
         <div class="col-lg-1"></div>
         <div class="col-lg-10 body">
-            <h2>Nature Boxes Landing Page</h2>
+            <h2>Cedar Waxwing by Jonni Ketcher</h2>
+
+            <img src="img/natureboxes/cedarwaxwing1.jpg" alt="Electrical box on the street with images of birds picking berries." class="center"/>
+
+            <img src="img/natureboxes/cedarwaxwing2.jpg" alt="Electrical box on the street with images of birds picking berries." class="center"/>
+
+            <img src="img/natureboxes/cedarwaxwing3.jpg" alt="Electrical box on the street with images of birds picking berries." class="center"/>
+
+            <img src="img/natureboxes/cedarwaxwing4.jpg" alt="Electrical box on the street with images of birds picking berries." class="center"/>
+
+            <p>In 2026, I was approached by the Gresham Outdoor Public Art to work on a piece for the local electrical boxes in Gresham, Oregon. The project was titled “Bird Boxes” and I was allowed to pick any of the local native birds to illustrate.</p>
+
+            <p>While I've befriended a couple crows in my neighborhood, I strayed away from depicting them or ravens because I felt the birds got enough coverage through sheer personality and presence in our region. I dove into researching another bird to cover, and found a new bird who's now become near and dear to my heart.</p>
+
+            <p>The Cedar Waxwing is a wonderful bird for a variety of reasons. Mostly a muted grey-brown with a black eye mask, feathery head plumage, and a bright yellow tail band, their wing tips exude a red, waxy substance and color that gives them their name.</p>
+
+            <p>Cedar Waxwings are unusual in the bird world because unlike most North American birds, their diet heavily relies on fruit more than any other food. While they've been known to eat seeds and insects, they rely primarily on fruit—sometimes for months. (As someone who grew up with the family nickname of “The Fruit Bat” I felt a particular kinship with these birds.) Like many animals who rely on fruit in their diet, they have also been observed getting absolutely plastered from eating overly fermented fruit—which is a funny sight and I've enjoyed quite a few videos of these goobers laying/standing/wobbling drunkenly in the face of cameras.</p>
+
+            <p>Finally, the tidbit of knowledge that sealed why I chose to illustrate the Cedar Waxwing in particular:</p>
+
+            <p>In my research, I learned they are heavily communal birds. They forage and fly in tight-knit communities. So much so that when fruit is only accessible to a single bird at the end of the branch, they will pluck the fruit and then pass it down the line before taking any for themselves.</p>
+
+            <p>Resource sharing isn't as unusual as we think in the animal kingdom, yet, lately, in the current economic climate we find ourselves in, where families struggle to pay their bills and feed their families, reminders of kindness (no matter the species) are bright moments in my day.</p>
+
+            <p>I hope when you're hiking around the PNW and you <a href="https://www.youtube.com/watch?v=OMvJL_GXIlc" target="_blank">hear their call</a>, you'll remember we can always chose to be kind.</p>
+
+            <p>The artwork is located on the electrical box on the Southwest corner of <a href="https://maps.app.goo.gl/dpkw56D8B3KWkRJu5" target="_blank">SE 185th and E Burnside St</a> [Click to open in GoogleMaps].
         </div>
     </div><!-- row div close -->
 </div><!-- container div close -->
