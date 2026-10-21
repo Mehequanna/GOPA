@@ -47,7 +47,7 @@ include 'navbar.php';
 
             <p>I hope when you're hiking around the PNW and you <a href="https://www.youtube.com/watch?v=OMvJL_GXIlc" target="_blank">hear their call</a>, you'll remember we can always chose to be kind.</p>
 
-            <p>The artwork is located on the electrical box on the Southwest corner of <a href="https://maps.app.goo.gl/dpkw56D8B3KWkRJu5" target="_blank">SE 185th and E Burnside St</a> [Click to open in GoogleMaps].
+            <p>The artwork is located on the electrical box on the Southwest corner of <a href="https://maps.app.goo.gl/dpkw56D8B3KWkRJu5" target="_blank">SE 185th and E Burnside St</a> [Click to open in GoogleMaps].</p>
         </div>
     </div><!-- row div close -->
 </div><!-- container div close -->
