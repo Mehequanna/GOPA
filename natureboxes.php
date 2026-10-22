@@ -50,6 +50,34 @@ include 'navbar.php';
             <p>The artwork is located on the electrical box on the Southwest corner of <a href="https://maps.app.goo.gl/dpkw56D8B3KWkRJu5" target="_blank">SE 185th and E Burnside St</a> [Click to open in GoogleMaps].</p>
         </div>
     </div><!-- row div close -->
+
+    <img src="img/divider.png" alt="Page Divider" id="divider"/>
+
+    <div class="row">
+        <div class="col-lg-1"></div>
+        <div class="col-lg-10 body">
+            <h2>Twahna Creation by Kitana Connelly</h2>
+
+            <p><strong>“Braided Carvings”</strong></p>
+            <img src="img/natureboxes/twahanbraidedcarvings.jpg" alt="Wooedn power figure carving with face and braided art along the side." class="center"/>
+            <p>A Columbia River Design power figure painted to look like a traditional style carving in wood. The strand of diamonds on each side of the figure are meant to be braided hair, a modern addition to the style.</p>
+
+            <p><strong>“Ancestor Constellations”</strong></p>
+            <img src="img/natureboxes/twhanaancestorconstellations.jpg" alt="Star constellations of a lamprey, arrows, and grapes." class="center"/>
+            <p>The moon, also sharing Columbia River Design, is illuminating the night sky from the bottom of the panel. The stars are connected as constellations, but not constellations as we know them now. I imagined what my Ancestor's might have seen in the stars as they admired them. In this night sky there are salmon berries, rivers, obsidian, a canoe panel, a lamprey, and a woven basket in progress.</p>
+
+            <p>The last two panels celebrate the beauty and abundance of the Land.</p>
+
+            <img src="img/natureboxes/twahnacamas.jpg" alt="Large purple flower on a long stalk." class="center"/>
+            <p>One depicts a field of camas, a traditional food of the valley, with a large camas in the foreground. You can see the flower and leaves of the plant in this artwork, but the edible part is not visible, the bulbs.</p>
+
+            <p><strong>“Elk and Trillium”</strong></p>
+            <img src="img/natureboxes/twahnaelktrillium.jpg" alt="Elk standing in a field of flowers." class="center"/>
+            <p>Lastly, a bright sun shines down on an elk standing in a patch of trillium flowers. Behind them is a wooded area. Elk is another traditional and popular food of the valley, and trillium was collected and used as medicine.</p>
+
+            <p>The artwork is located on the electrical box on the Northwest corner of <a href="https://maps.app.goo.gl/UwwxCTtKRELGHHcZ8" target="_blank">E Powell Blvd and NE Hood Ave</a> [Click to open in GoogleMaps].</p>
+        </div>
+    </div><!-- row div close -->
 </div><!-- container div close -->
 <!-- End Body -->
 
